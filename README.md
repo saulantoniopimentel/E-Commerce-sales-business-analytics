@@ -17,5 +17,7 @@ An inform is a document that contains information about the software requirement
 
 # Preview 
 
+
+<img width="1185" height="1098" alt="image" src="https://github.com/user-attachments/assets/6565bf76-dc5e-46e4-b1ec-6e9249369a74" />
 <img width="1256" height="707" alt="image" src="https://github.com/user-attachments/assets/88799625-fde6-4426-b0ff-9e3252032a3e" />
 

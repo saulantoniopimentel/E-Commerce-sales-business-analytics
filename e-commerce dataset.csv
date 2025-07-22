@@ -1,0 +1,1001 @@
+Order ID,Date,Product Name,Category,Quantity,Unit Price,Discount (%),Total Revenue,Shipping Cost,Customer Country,Customer Segment,Order Channel,Payment Method,Order Status
+ORD-0001,2024-01-08,Fuel Cell GX,Fuel Systems,7,42.55,30,208.49,12.27,Brazil,University,Referral,Stripe,Pending
+ORD-0002,2024-02-03,Flight Computer ZB,Electronics,9,79.79,10,646.3,8.19,Mexico,Hobbyist,Referral,Manual,Pending
+ORD-0003,2024-01-21,Parachute Recovery Pack,Safety,8,103.41,30,579.1,8.6,Germany,University,Online,PayPal,Refunded
+ORD-0004,2024-02-01,Parachute Recovery Pack,Safety,3,187.72,0,563.16,14.51,USA,University,Online,Stripe,Refunded
+ORD-0005,2024-01-25,Telemetry Kit Alpha,Electronics,2,56.08,15,95.34,13.11,Germany,Company,Online,Manual,Completed
+ORD-0006,2024-03-25,Parachute Recovery Pack,Safety,10,186.57,5,1772.41,12.67,Canada,Hobbyist,Online,Stripe,Refunded
+ORD-0007,2024-05-25,Thruster C-21,Engines,3,194.95,20,467.88,9.91,Mexico,University,Online,Manual,Completed
+ORD-0008,2024-02-23,Flight Computer ZB,Electronics,4,73.35,5,278.73,10.08,USA,Company,Referral,PayPal,Pending
+ORD-0009,2024-01-29,Ignition Module V2,Electronics,1,179.48,25,134.61,3.68,UK,Company,Mobile App,PayPal,Completed
+ORD-0010,2024-05-13,Thruster C-21,Engines,10,52.4,5,497.8,9.72,Japan,University,Mobile App,Stripe,Completed
+ORD-0011,2024-04-11,Thruster C-21,Engines,7,144.95,20,811.72,14.99,Brazil,University,Mobile App,Manual,Completed
+ORD-0012,2024-04-05,Fuel Cell GX,Fuel Systems,4,36.95,20,118.24,11.95,USA,University,Online,Stripe,Pending
+ORD-0013,2024-05-28,Rocket Motor XZ-100,Engines,6,197.54,10,1066.72,3.08,Japan,Hobbyist,Mobile App,Stripe,Pending
+ORD-0014,2024-02-22,Fuel Cell GX,Fuel Systems,5,110.06,20,440.24,13.38,Germany,Company,Referral,Manual,Pending
+ORD-0015,2024-03-06,Rocket Motor XZ-100,Engines,7,104.01,5,691.67,1.75,USA,Hobbyist,Mobile App,PayPal,Completed
+ORD-0016,2024-05-06,Launch Pad Mini,Hardware,1,91.54,30,64.08,1.78,Mexico,Company,Online,PayPal,Completed
+ORD-0017,2024-02-16,Thruster C-21,Engines,10,47.65,0,476.5,2.25,Japan,Hobbyist,Online,Manual,Pending
+ORD-0018,2024-04-10,Thruster C-21,Engines,4,54.52,0,218.08,4.8,UK,Company,Referral,Stripe,Refunded
+ORD-0019,2024-02-26,Launch Pad Mini,Hardware,6,108.01,15,550.85,11.21,Brazil,Company,Referral,Stripe,Pending
+ORD-0020,2024-02-17,Flight Computer ZB,Electronics,2,157.78,30,220.89,12.54,Canada,University,Online,Stripe,Pending
+ORD-0021,2024-05-19,Rocket Motor XZ-100,Engines,2,145.77,15,247.81,3.92,USA,University,Referral,Stripe,Refunded
+ORD-0022,2024-04-21,Flight Computer ZB,Electronics,2,50.57,30,70.8,13.76,Japan,Company,Online,Stripe,Completed
+ORD-0023,2024-01-14,Flight Computer ZB,Electronics,7,173.04,25,908.46,9.99,Japan,Hobbyist,Mobile App,Manual,Pending
+ORD-0024,2024-04-05,Launch Pad Mini,Hardware,10,190.91,30,1336.37,11.53,Germany,University,Online,PayPal,Pending
+ORD-0025,2024-03-14,Flight Computer ZB,Electronics,4,44.72,10,160.99,14.72,Japan,Company,Online,PayPal,Pending
+ORD-0026,2024-05-04,Fuel Cell GX,Fuel Systems,9,145.99,30,919.74,10.36,UK,Hobbyist,Mobile App,Manual,Completed
+ORD-0027,2024-03-05,Telemetry Kit Alpha,Electronics,8,127.63,5,969.99,6.53,UK,Hobbyist,Online,Stripe,Pending
+ORD-0028,2024-02-01,Ignition Module V2,Electronics,2,193.66,15,329.22,7.81,Canada,University,Online,Manual,Pending
+ORD-0029,2024-06-13,Rocket Motor XZ-100,Engines,5,127.01,10,571.55,12.77,Mexico,University,Mobile App,Manual,Pending
+ORD-0030,2024-01-25,Parachute Recovery Pack,Safety,8,164.24,20,1051.14,6.96,Mexico,University,Referral,Manual,Refunded
+ORD-0031,2024-03-26,Parachute Recovery Pack,Safety,9,59.39,5,507.78,10.03,Mexico,Hobbyist,Referral,PayPal,Refunded
+ORD-0032,2024-04-12,Launch Pad Mini,Hardware,7,129.19,30,633.03,12.1,Canada,Company,Mobile App,PayPal,Completed
+ORD-0033,2024-05-02,Rocket Motor XZ-100,Engines,7,160.49,15,954.92,7.14,Germany,Company,Mobile App,PayPal,Pending
+ORD-0034,2024-02-23,Ignition Module V2,Electronics,3,110.61,15,282.06,1.84,UK,Company,Mobile App,Stripe,Refunded
+ORD-0035,2024-02-21,Ignition Module V2,Electronics,7,34.01,5,226.17,12.71,Japan,Company,Mobile App,Manual,Refunded
+ORD-0036,2024-05-01,Launch Pad Mini,Hardware,8,43.8,20,280.32,2.91,Germany,Company,Online,Manual,Pending
+ORD-0037,2024-03-13,Fuel Cell GX,Fuel Systems,6,178.62,10,964.55,0.63,UK,University,Mobile App,Manual,Refunded
+ORD-0038,2024-04-01,Rocket Motor XZ-100,Engines,5,185.67,30,649.85,9.76,Japan,Hobbyist,Online,Stripe,Refunded
+ORD-0039,2024-04-01,Thruster C-21,Engines,5,91.03,0,455.15,3.92,USA,University,Online,PayPal,Pending
+ORD-0040,2024-02-01,Ignition Module V2,Electronics,8,160.65,0,1285.2,12.46,USA,Hobbyist,Online,Stripe,Refunded
+ORD-0041,2024-05-31,Flight Computer ZB,Electronics,2,104.34,25,156.51,1.4,UK,Hobbyist,Referral,Stripe,Completed
+ORD-0042,2024-02-10,Flight Computer ZB,Electronics,9,54.99,20,395.93,8.93,Canada,Company,Mobile App,Manual,Refunded
+ORD-0043,2024-01-19,Flight Computer ZB,Electronics,3,47.36,30,99.46,4.18,Japan,Company,Mobile App,Manual,Completed
+ORD-0044,2024-02-24,Fuel Cell GX,Fuel Systems,9,187.32,10,1517.29,14.67,UK,Hobbyist,Mobile App,Manual,Refunded
+ORD-0045,2024-04-04,Ignition Module V2,Electronics,8,185.98,10,1339.06,11.82,Mexico,Company,Referral,Stripe,Completed
+ORD-0046,2024-03-05,Rocket Motor XZ-100,Engines,6,141.88,25,638.46,8.65,Mexico,University,Online,Stripe,Completed
+ORD-0047,2024-04-01,Thruster C-21,Engines,10,69.39,0,693.9,13.55,USA,Company,Referral,Manual,Refunded
+ORD-0048,2024-03-11,Rocket Motor XZ-100,Engines,9,141.72,0,1275.48,3.61,Germany,University,Online,Manual,Refunded
+ORD-0049,2024-03-15,Thruster C-21,Engines,8,187.08,0,1496.64,10.48,UK,Hobbyist,Referral,PayPal,Completed
+ORD-0050,2024-02-17,Flight Computer ZB,Electronics,5,183.58,10,826.11,9.75,Brazil,University,Referral,Manual,Completed
+ORD-0051,2024-04-01,Parachute Recovery Pack,Safety,6,175.83,0,1054.98,12.71,Germany,Hobbyist,Online,PayPal,Refunded
+ORD-0052,2024-06-18,Rocket Motor XZ-100,Engines,1,101.13,10,91.02,3.04,USA,University,Referral,Stripe,Refunded
+ORD-0053,2024-02-25,Flight Computer ZB,Electronics,10,29.1,20,232.8,5.77,UK,Hobbyist,Mobile App,PayPal,Completed
+ORD-0054,2024-02-21,Thruster C-21,Engines,10,172.13,10,1549.17,13.6,Canada,Hobbyist,Online,PayPal,Pending
+ORD-0055,2024-01-20,Fuel Cell GX,Fuel Systems,1,119.1,0,119.1,6.67,USA,Hobbyist,Referral,Stripe,Refunded
+ORD-0056,2024-06-21,Parachute Recovery Pack,Safety,2,80.48,10,144.86,1.45,Germany,Hobbyist,Online,Stripe,Pending
+ORD-0057,2024-06-25,Parachute Recovery Pack,Safety,1,59.92,25,44.94,9.91,Mexico,University,Online,PayPal,Pending
+ORD-0058,2024-06-05,Rocket Motor XZ-100,Engines,3,76.67,25,172.51,5.16,Japan,University,Referral,PayPal,Pending
+ORD-0059,2024-01-29,Parachute Recovery Pack,Safety,7,86.8,5,577.22,8.25,UK,University,Referral,Manual,Completed
+ORD-0060,2024-01-16,Rocket Motor XZ-100,Engines,5,174.89,0,874.45,13.72,Brazil,Company,Online,Manual,Completed
+ORD-0061,2024-04-20,Fuel Cell GX,Fuel Systems,8,189.33,20,1211.71,2.24,Canada,Company,Referral,Manual,Pending
+ORD-0062,2024-02-23,Fuel Cell GX,Fuel Systems,8,38.11,25,228.66,8.67,UK,Company,Mobile App,Manual,Refunded
+ORD-0063,2024-06-13,Launch Pad Mini,Hardware,6,89.39,5,509.52,14.86,Germany,Company,Referral,Manual,Completed
+ORD-0064,2024-06-07,Parachute Recovery Pack,Safety,2,107.25,0,214.5,13.12,USA,Company,Referral,PayPal,Completed
+ORD-0065,2024-04-10,Flight Computer ZB,Electronics,6,80.95,5,461.42,4.55,Germany,Hobbyist,Online,Manual,Refunded
+ORD-0066,2024-02-28,Thruster C-21,Engines,7,29.16,25,153.09,14.58,Japan,University,Online,Stripe,Completed
+ORD-0067,2024-02-02,Thruster C-21,Engines,7,70.3,20,393.68,8.24,Japan,University,Mobile App,Stripe,Pending
+ORD-0068,2024-06-30,Ignition Module V2,Electronics,6,195.58,0,1173.48,0.22,Brazil,Hobbyist,Referral,Manual,Refunded
+ORD-0069,2024-06-05,Flight Computer ZB,Electronics,8,178.09,5,1353.48,8.4,USA,Hobbyist,Referral,Stripe,Completed
+ORD-0070,2024-01-09,Thruster C-21,Engines,1,199.22,30,139.45,4.13,Brazil,University,Referral,PayPal,Completed
+ORD-0071,2024-01-30,Flight Computer ZB,Electronics,3,43.67,15,111.36,5.6,Canada,Company,Online,Stripe,Completed
+ORD-0072,2024-05-26,Telemetry Kit Alpha,Electronics,4,199.85,0,799.4,1.09,Canada,Company,Online,PayPal,Completed
+ORD-0073,2024-06-16,Launch Pad Mini,Hardware,6,72.84,5,415.19,7.42,UK,University,Referral,Manual,Completed
+ORD-0074,2024-01-26,Parachute Recovery Pack,Safety,6,68.89,15,351.34,10.21,Japan,Company,Mobile App,PayPal,Refunded
+ORD-0075,2024-02-25,Rocket Motor XZ-100,Engines,4,195.66,25,586.98,6.03,Germany,University,Referral,Stripe,Refunded
+ORD-0076,2024-06-07,Rocket Motor XZ-100,Engines,7,179.82,5,1195.8,5.33,Germany,Hobbyist,Online,Manual,Completed
+ORD-0077,2024-02-05,Rocket Motor XZ-100,Engines,10,82.85,25,621.38,3.04,UK,Hobbyist,Online,PayPal,Pending
+ORD-0078,2024-01-23,Fuel Cell GX,Fuel Systems,6,146.52,15,747.25,13.27,Japan,Company,Referral,Manual,Refunded
+ORD-0079,2024-01-18,Ignition Module V2,Electronics,7,170.11,10,1071.69,4.19,USA,University,Referral,Stripe,Pending
+ORD-0080,2024-03-30,Rocket Motor XZ-100,Engines,8,93.98,15,639.06,3.29,Canada,Hobbyist,Referral,PayPal,Refunded
+ORD-0081,2024-02-18,Thruster C-21,Engines,9,158.7,10,1285.47,12.79,USA,Company,Mobile App,PayPal,Refunded
+ORD-0082,2024-06-29,Launch Pad Mini,Hardware,3,114.52,10,309.2,14.55,Mexico,Hobbyist,Online,Stripe,Pending
+ORD-0083,2024-03-02,Telemetry Kit Alpha,Electronics,9,86.5,25,583.88,10.3,Japan,Hobbyist,Referral,Stripe,Completed
+ORD-0084,2024-01-11,Parachute Recovery Pack,Safety,9,148.76,25,1004.13,10.01,Japan,Company,Referral,PayPal,Completed
+ORD-0085,2024-03-21,Ignition Module V2,Electronics,8,127.04,5,965.5,6.94,UK,University,Referral,Stripe,Pending
+ORD-0086,2024-04-06,Launch Pad Mini,Hardware,3,24.53,20,58.87,10.12,Germany,Company,Online,PayPal,Pending
+ORD-0087,2024-04-24,Flight Computer ZB,Electronics,3,104.42,0,313.26,14.09,Brazil,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0088,2024-04-09,Fuel Cell GX,Fuel Systems,1,53.07,0,53.07,0.9,UK,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0089,2024-02-24,Rocket Motor XZ-100,Engines,10,127.38,5,1210.11,4.03,Mexico,University,Mobile App,PayPal,Pending
+ORD-0090,2024-06-24,Rocket Motor XZ-100,Engines,2,48.02,25,72.03,13.94,Canada,Hobbyist,Online,PayPal,Pending
+ORD-0091,2024-02-23,Fuel Cell GX,Fuel Systems,2,172.71,20,276.34,9.12,UK,Company,Referral,Stripe,Refunded
+ORD-0092,2024-04-09,Flight Computer ZB,Electronics,3,182.59,10,492.99,3.04,Brazil,Company,Mobile App,Stripe,Completed
+ORD-0093,2024-02-03,Telemetry Kit Alpha,Electronics,10,29.61,25,222.07,11.68,Japan,University,Referral,Manual,Pending
+ORD-0094,2024-01-08,Fuel Cell GX,Fuel Systems,8,97.51,10,702.07,8.13,Japan,University,Online,Manual,Pending
+ORD-0095,2024-03-08,Thruster C-21,Engines,1,140.75,10,126.67,1.3,Germany,Company,Mobile App,PayPal,Completed
+ORD-0096,2024-07-01,Flight Computer ZB,Electronics,8,60.15,20,384.96,7.96,USA,Company,Mobile App,Manual,Completed
+ORD-0097,2024-04-26,Launch Pad Mini,Hardware,10,178.08,15,1513.68,9.01,Japan,Hobbyist,Online,Stripe,Completed
+ORD-0098,2024-04-29,Fuel Cell GX,Fuel Systems,4,57.67,30,161.48,1.05,UK,Company,Mobile App,PayPal,Refunded
+ORD-0099,2024-06-19,Ignition Module V2,Electronics,9,154.75,15,1183.84,14.58,Germany,Company,Referral,PayPal,Pending
+ORD-0100,2024-04-23,Thruster C-21,Engines,6,75.22,30,315.92,12.93,Mexico,Hobbyist,Mobile App,PayPal,Pending
+ORD-0101,2024-01-05,Telemetry Kit Alpha,Electronics,6,101.21,10,546.53,6.74,USA,University,Mobile App,Stripe,Completed
+ORD-0102,2024-06-28,Flight Computer ZB,Electronics,3,178.88,20,429.31,9.02,UK,University,Referral,PayPal,Completed
+ORD-0103,2024-06-08,Telemetry Kit Alpha,Electronics,6,150.12,30,630.5,8.76,Canada,University,Online,Manual,Refunded
+ORD-0104,2024-06-11,Flight Computer ZB,Electronics,5,169.02,25,633.83,3.44,Japan,Hobbyist,Mobile App,Stripe,Completed
+ORD-0105,2024-03-25,Flight Computer ZB,Electronics,8,56.23,25,337.38,0.86,UK,Company,Mobile App,Stripe,Refunded
+ORD-0106,2024-03-03,Flight Computer ZB,Electronics,7,43.82,30,214.72,5.69,Japan,Company,Mobile App,Manual,Pending
+ORD-0107,2024-06-03,Fuel Cell GX,Fuel Systems,10,68.23,5,648.18,6.41,Canada,University,Mobile App,PayPal,Completed
+ORD-0108,2024-02-14,Ignition Module V2,Electronics,6,64.78,20,310.94,7.1,UK,Company,Mobile App,PayPal,Refunded
+ORD-0109,2024-02-18,Telemetry Kit Alpha,Electronics,2,108.28,5,205.73,11.52,USA,Hobbyist,Online,Manual,Pending
+ORD-0110,2024-04-26,Ignition Module V2,Electronics,5,191.46,10,861.57,10.21,Germany,Hobbyist,Online,PayPal,Pending
+ORD-0111,2024-05-12,Flight Computer ZB,Electronics,2,193.9,25,290.85,8.47,Brazil,University,Mobile App,Stripe,Refunded
+ORD-0112,2024-06-15,Launch Pad Mini,Hardware,10,93.5,15,794.75,0.93,USA,Hobbyist,Referral,Stripe,Completed
+ORD-0113,2024-06-22,Ignition Module V2,Electronics,1,62.59,20,50.07,5.34,Mexico,Company,Online,PayPal,Completed
+ORD-0114,2024-05-10,Flight Computer ZB,Electronics,2,67.61,10,121.7,1.23,Canada,Company,Online,Manual,Refunded
+ORD-0115,2024-06-05,Thruster C-21,Engines,7,168.97,30,827.95,9.82,UK,University,Online,PayPal,Completed
+ORD-0116,2024-01-15,Rocket Motor XZ-100,Engines,4,162.17,10,583.81,11.59,Germany,University,Referral,Manual,Refunded
+ORD-0117,2024-06-11,Fuel Cell GX,Fuel Systems,1,62.61,10,56.35,9.93,USA,University,Mobile App,Stripe,Completed
+ORD-0118,2024-01-17,Parachute Recovery Pack,Safety,4,194.35,20,621.92,14.34,Japan,University,Referral,Stripe,Completed
+ORD-0119,2024-01-17,Ignition Module V2,Electronics,5,154.87,15,658.2,4.81,Brazil,Hobbyist,Mobile App,Manual,Completed
+ORD-0120,2024-01-01,Telemetry Kit Alpha,Electronics,9,180.68,0,1626.12,0.46,USA,Company,Online,PayPal,Pending
+ORD-0121,2024-03-09,Ignition Module V2,Electronics,5,69.02,0,345.1,8.9,USA,Hobbyist,Referral,PayPal,Completed
+ORD-0122,2024-01-06,Telemetry Kit Alpha,Electronics,7,154.45,5,1027.09,8.8,Canada,Hobbyist,Online,PayPal,Refunded
+ORD-0123,2024-05-20,Flight Computer ZB,Electronics,2,184.74,20,295.58,5.53,Brazil,Company,Online,PayPal,Refunded
+ORD-0124,2024-05-29,Fuel Cell GX,Fuel Systems,9,61.72,20,444.38,8.86,Japan,University,Referral,Stripe,Refunded
+ORD-0125,2024-04-11,Telemetry Kit Alpha,Electronics,4,195.97,30,548.72,10.91,Germany,Hobbyist,Online,Stripe,Completed
+ORD-0126,2024-04-04,Launch Pad Mini,Hardware,8,99.46,15,676.33,8.4,Japan,University,Mobile App,Manual,Completed
+ORD-0127,2024-03-14,Fuel Cell GX,Fuel Systems,1,158.48,5,150.56,10.06,USA,Hobbyist,Online,Manual,Refunded
+ORD-0128,2024-06-05,Parachute Recovery Pack,Safety,5,107.32,0,536.6,5.82,UK,Company,Online,PayPal,Pending
+ORD-0129,2024-02-21,Launch Pad Mini,Hardware,9,126.37,25,853.0,2.73,Mexico,University,Mobile App,Stripe,Pending
+ORD-0130,2024-04-18,Fuel Cell GX,Fuel Systems,8,83.77,10,603.14,7.93,USA,Hobbyist,Referral,Stripe,Pending
+ORD-0131,2024-02-23,Thruster C-21,Engines,8,157.7,20,1009.28,14.06,Germany,Hobbyist,Mobile App,PayPal,Pending
+ORD-0132,2024-06-18,Launch Pad Mini,Hardware,9,134.42,20,967.82,8.65,Canada,University,Online,Stripe,Pending
+ORD-0133,2024-05-16,Thruster C-21,Engines,8,158.11,0,1264.88,13.13,Japan,Hobbyist,Online,PayPal,Pending
+ORD-0134,2024-03-01,Fuel Cell GX,Fuel Systems,9,30.48,15,233.17,8.22,Canada,Hobbyist,Referral,Manual,Refunded
+ORD-0135,2024-06-24,Telemetry Kit Alpha,Electronics,4,114.61,30,320.91,2.85,Brazil,University,Referral,Stripe,Completed
+ORD-0136,2024-03-13,Parachute Recovery Pack,Safety,8,104.18,5,791.77,5.84,Japan,University,Referral,Stripe,Pending
+ORD-0137,2024-03-23,Thruster C-21,Engines,1,95.35,5,90.58,3.29,Mexico,Company,Referral,Stripe,Refunded
+ORD-0138,2024-06-02,Telemetry Kit Alpha,Electronics,8,179.77,10,1294.34,7.42,Canada,University,Mobile App,Stripe,Completed
+ORD-0139,2024-05-15,Telemetry Kit Alpha,Electronics,3,54.76,15,139.64,9.51,USA,University,Online,PayPal,Completed
+ORD-0140,2024-01-22,Ignition Module V2,Electronics,7,115.13,10,725.32,14.4,Canada,University,Referral,Stripe,Completed
+ORD-0141,2024-01-13,Fuel Cell GX,Fuel Systems,1,108.26,5,102.85,3.7,Japan,Hobbyist,Online,Stripe,Refunded
+ORD-0142,2024-05-25,Flight Computer ZB,Electronics,8,60.87,10,438.26,11.44,Germany,University,Referral,PayPal,Refunded
+ORD-0143,2024-04-21,Ignition Module V2,Electronics,6,101.46,0,608.76,3.02,Germany,Hobbyist,Mobile App,Stripe,Pending
+ORD-0144,2024-05-06,Parachute Recovery Pack,Safety,2,56.11,15,95.39,6.02,USA,Company,Online,Stripe,Refunded
+ORD-0145,2024-03-12,Fuel Cell GX,Fuel Systems,3,27.9,15,71.14,11.19,Mexico,Company,Referral,Stripe,Refunded
+ORD-0146,2024-02-01,Flight Computer ZB,Electronics,5,167.34,0,836.7,3.31,Brazil,Company,Online,Manual,Pending
+ORD-0147,2024-05-05,Rocket Motor XZ-100,Engines,3,125.96,30,264.52,0.11,Mexico,Company,Mobile App,Manual,Pending
+ORD-0148,2024-02-17,Telemetry Kit Alpha,Electronics,5,59.53,15,253.0,12.28,USA,Company,Referral,Stripe,Completed
+ORD-0149,2024-06-03,Ignition Module V2,Electronics,9,135.68,10,1099.01,12.77,Japan,Company,Online,PayPal,Completed
+ORD-0150,2024-06-05,Parachute Recovery Pack,Safety,3,35.42,5,100.95,14.18,Mexico,Hobbyist,Mobile App,PayPal,Completed
+ORD-0151,2024-04-25,Launch Pad Mini,Hardware,4,115.73,30,324.04,11.69,UK,Company,Mobile App,Manual,Refunded
+ORD-0152,2024-01-21,Fuel Cell GX,Fuel Systems,6,30.94,25,139.23,10.83,Japan,Company,Referral,Stripe,Completed
+ORD-0153,2024-05-05,Thruster C-21,Engines,6,107.62,5,613.43,2.09,Japan,University,Referral,PayPal,Completed
+ORD-0154,2024-03-14,Rocket Motor XZ-100,Engines,2,92.54,15,157.32,4.04,UK,Company,Referral,Stripe,Completed
+ORD-0155,2024-06-01,Telemetry Kit Alpha,Electronics,3,157.06,25,353.38,11.84,Germany,University,Online,Manual,Completed
+ORD-0156,2024-03-28,Rocket Motor XZ-100,Engines,10,60.49,30,423.43,2.56,Mexico,Company,Referral,PayPal,Completed
+ORD-0157,2024-02-07,Parachute Recovery Pack,Safety,7,39.5,30,193.55,12.78,Brazil,Hobbyist,Mobile App,Stripe,Completed
+ORD-0158,2024-06-16,Launch Pad Mini,Hardware,6,168.01,30,705.64,7.57,USA,Hobbyist,Online,Stripe,Pending
+ORD-0159,2024-02-25,Flight Computer ZB,Electronics,7,158.3,30,775.67,13.86,Canada,University,Mobile App,Manual,Refunded
+ORD-0160,2024-04-18,Launch Pad Mini,Hardware,3,171.3,5,488.21,5.2,Canada,Hobbyist,Mobile App,PayPal,Completed
+ORD-0161,2024-03-01,Parachute Recovery Pack,Safety,7,168.36,15,1001.74,3.09,Brazil,Company,Referral,Stripe,Completed
+ORD-0162,2024-06-23,Launch Pad Mini,Hardware,7,34.07,10,214.64,5.57,Mexico,University,Online,PayPal,Refunded
+ORD-0163,2024-04-14,Thruster C-21,Engines,5,92.68,30,324.38,0.79,Canada,Hobbyist,Online,Stripe,Refunded
+ORD-0164,2024-04-03,Flight Computer ZB,Electronics,3,40.46,20,97.1,7.73,Japan,Company,Online,Stripe,Refunded
+ORD-0165,2024-04-28,Fuel Cell GX,Fuel Systems,6,118.31,30,496.9,1.77,Germany,Hobbyist,Referral,PayPal,Pending
+ORD-0166,2024-03-23,Ignition Module V2,Electronics,4,123.89,20,396.45,6.49,Japan,Company,Mobile App,PayPal,Refunded
+ORD-0167,2024-02-08,Parachute Recovery Pack,Safety,2,117.47,15,199.7,13.06,UK,Hobbyist,Referral,PayPal,Refunded
+ORD-0168,2024-02-29,Ignition Module V2,Electronics,1,81.8,20,65.44,2.66,Canada,University,Referral,Manual,Pending
+ORD-0169,2024-03-01,Flight Computer ZB,Electronics,6,96.22,0,577.32,9.32,Mexico,University,Referral,Stripe,Pending
+ORD-0170,2024-05-17,Parachute Recovery Pack,Safety,10,146.53,30,1025.71,5.31,Mexico,Company,Referral,PayPal,Pending
+ORD-0171,2024-01-09,Rocket Motor XZ-100,Engines,10,160.73,10,1446.57,10.17,Mexico,University,Online,Manual,Pending
+ORD-0172,2024-03-01,Fuel Cell GX,Fuel Systems,4,94.83,15,322.42,14.79,Mexico,Hobbyist,Mobile App,Stripe,Completed
+ORD-0173,2024-05-27,Fuel Cell GX,Fuel Systems,1,182.21,20,145.77,2.39,Germany,University,Mobile App,Stripe,Pending
+ORD-0174,2024-06-15,Ignition Module V2,Electronics,5,130.68,30,457.38,5.75,Japan,Company,Online,Manual,Refunded
+ORD-0175,2024-03-30,Ignition Module V2,Electronics,4,179.96,10,647.86,9.82,UK,Company,Online,Manual,Refunded
+ORD-0176,2024-05-14,Rocket Motor XZ-100,Engines,5,164.68,5,782.23,7.98,Germany,Company,Referral,Stripe,Completed
+ORD-0177,2024-03-03,Flight Computer ZB,Electronics,1,110.1,10,99.09,7.88,Brazil,Company,Mobile App,PayPal,Pending
+ORD-0178,2024-05-27,Parachute Recovery Pack,Safety,6,41.5,20,199.2,2.64,USA,University,Referral,Stripe,Refunded
+ORD-0179,2024-04-27,Thruster C-21,Engines,6,33.17,20,159.22,2.38,UK,University,Online,Manual,Pending
+ORD-0180,2024-02-06,Fuel Cell GX,Fuel Systems,7,100.11,20,560.62,12.96,Japan,University,Referral,Stripe,Refunded
+ORD-0181,2024-03-23,Fuel Cell GX,Fuel Systems,5,52.94,5,251.46,3.37,Japan,University,Mobile App,PayPal,Completed
+ORD-0182,2024-06-06,Fuel Cell GX,Fuel Systems,3,25.93,20,62.23,14.59,Brazil,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0183,2024-05-22,Launch Pad Mini,Hardware,9,83.77,20,603.14,4.29,USA,University,Referral,Manual,Completed
+ORD-0184,2024-06-03,Launch Pad Mini,Hardware,9,107.76,15,824.36,10.48,Japan,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0185,2024-05-02,Thruster C-21,Engines,9,62.35,30,392.8,6.24,UK,Company,Mobile App,Manual,Completed
+ORD-0186,2024-06-10,Thruster C-21,Engines,8,103.54,15,704.07,0.61,Japan,Company,Online,PayPal,Refunded
+ORD-0187,2024-06-10,Rocket Motor XZ-100,Engines,10,40.4,25,303.0,11.27,Canada,Hobbyist,Mobile App,Stripe,Pending
+ORD-0188,2024-03-16,Fuel Cell GX,Fuel Systems,10,136.26,10,1226.34,1.32,Mexico,University,Online,Manual,Pending
+ORD-0189,2024-03-07,Rocket Motor XZ-100,Engines,6,171.27,25,770.72,11.98,Canada,Company,Referral,Stripe,Pending
+ORD-0190,2024-03-31,Rocket Motor XZ-100,Engines,3,59.74,15,152.34,2.97,Canada,University,Mobile App,Manual,Pending
+ORD-0191,2024-06-19,Parachute Recovery Pack,Safety,4,92.08,25,276.24,9.04,Canada,Company,Mobile App,Stripe,Completed
+ORD-0192,2024-04-30,Rocket Motor XZ-100,Engines,8,169.06,30,946.74,14.5,Brazil,Hobbyist,Referral,Stripe,Refunded
+ORD-0193,2024-03-29,Parachute Recovery Pack,Safety,8,84.27,10,606.74,8.74,Japan,University,Online,Manual,Completed
+ORD-0194,2024-05-25,Parachute Recovery Pack,Safety,5,54.2,10,243.9,14.99,Mexico,University,Mobile App,Manual,Completed
+ORD-0195,2024-02-29,Rocket Motor XZ-100,Engines,1,171.69,5,163.11,7.92,Japan,University,Online,PayPal,Completed
+ORD-0196,2024-01-04,Fuel Cell GX,Fuel Systems,6,164.85,15,840.74,5.55,UK,Company,Mobile App,Manual,Refunded
+ORD-0197,2024-03-26,Thruster C-21,Engines,10,181.12,15,1539.52,2.36,UK,Company,Referral,PayPal,Completed
+ORD-0198,2024-01-11,Flight Computer ZB,Electronics,3,168.08,15,428.6,2.42,Brazil,Company,Online,PayPal,Completed
+ORD-0199,2024-05-11,Launch Pad Mini,Hardware,9,142.15,5,1215.38,13.15,Japan,Hobbyist,Mobile App,Manual,Completed
+ORD-0200,2024-04-04,Ignition Module V2,Electronics,6,159.03,5,906.47,14.27,Japan,University,Referral,Manual,Pending
+ORD-0201,2024-03-03,Launch Pad Mini,Hardware,7,173.59,5,1154.37,13.78,USA,University,Referral,Manual,Pending
+ORD-0202,2024-02-13,Flight Computer ZB,Electronics,2,146.06,15,248.3,12.65,UK,University,Referral,Manual,Pending
+ORD-0203,2024-03-13,Ignition Module V2,Electronics,3,167.96,25,377.91,1.65,Mexico,University,Mobile App,Manual,Refunded
+ORD-0204,2024-06-27,Flight Computer ZB,Electronics,10,34.87,30,244.09,14.72,Brazil,Company,Online,PayPal,Pending
+ORD-0205,2024-04-24,Thruster C-21,Engines,10,151.04,15,1283.84,10.88,UK,University,Mobile App,Manual,Completed
+ORD-0206,2024-02-20,Telemetry Kit Alpha,Electronics,10,148.21,5,1407.99,13.17,Canada,Hobbyist,Mobile App,PayPal,Pending
+ORD-0207,2024-03-19,Parachute Recovery Pack,Safety,3,53.81,30,113.0,9.6,Canada,Hobbyist,Referral,PayPal,Pending
+ORD-0208,2024-03-09,Telemetry Kit Alpha,Electronics,10,114.04,20,912.32,4.65,USA,University,Mobile App,Stripe,Completed
+ORD-0209,2024-04-14,Fuel Cell GX,Fuel Systems,9,85.36,15,653.0,3.93,USA,Company,Referral,Manual,Pending
+ORD-0210,2024-01-02,Parachute Recovery Pack,Safety,10,170.48,30,1193.36,5.11,Japan,University,Referral,Manual,Completed
+ORD-0211,2024-05-23,Launch Pad Mini,Hardware,9,107.1,25,722.92,11.84,USA,Hobbyist,Mobile App,Stripe,Pending
+ORD-0212,2024-02-26,Launch Pad Mini,Hardware,9,59.74,30,376.36,12.21,Canada,Company,Referral,Manual,Completed
+ORD-0213,2024-02-21,Thruster C-21,Engines,2,167.21,15,284.26,7.51,Germany,Company,Online,Manual,Pending
+ORD-0214,2024-02-17,Telemetry Kit Alpha,Electronics,5,142.94,15,607.5,7.36,USA,University,Online,Manual,Pending
+ORD-0215,2024-02-04,Telemetry Kit Alpha,Electronics,7,28.61,0,200.27,12.61,Mexico,Hobbyist,Referral,Stripe,Pending
+ORD-0216,2024-06-18,Parachute Recovery Pack,Safety,5,180.66,25,677.48,7.76,USA,Company,Online,Stripe,Pending
+ORD-0217,2024-05-05,Parachute Recovery Pack,Safety,4,33.44,20,107.01,5.14,Japan,Company,Online,Stripe,Pending
+ORD-0218,2024-05-21,Rocket Motor XZ-100,Engines,10,48.17,15,409.44,4.83,Germany,Hobbyist,Mobile App,Stripe,Completed
+ORD-0219,2024-04-17,Flight Computer ZB,Electronics,1,104.18,20,83.34,3.85,Brazil,Hobbyist,Online,Stripe,Completed
+ORD-0220,2024-01-15,Fuel Cell GX,Fuel Systems,1,23.2,5,22.04,13.89,Brazil,Company,Referral,Manual,Pending
+ORD-0221,2024-04-01,Flight Computer ZB,Electronics,5,194.89,5,925.73,9.14,UK,University,Referral,PayPal,Completed
+ORD-0222,2024-06-21,Flight Computer ZB,Electronics,9,93.51,0,841.59,0.41,USA,Company,Mobile App,Manual,Refunded
+ORD-0223,2024-05-27,Parachute Recovery Pack,Safety,7,126.34,20,707.5,6.94,Japan,University,Online,PayPal,Completed
+ORD-0224,2024-04-19,Ignition Module V2,Electronics,9,165.37,5,1413.91,13.77,Germany,University,Mobile App,Stripe,Pending
+ORD-0225,2024-04-21,Thruster C-21,Engines,6,41.92,30,176.06,6.9,Brazil,Company,Mobile App,PayPal,Pending
+ORD-0226,2024-04-19,Fuel Cell GX,Fuel Systems,5,189.59,0,947.95,9.95,Japan,Hobbyist,Mobile App,Manual,Completed
+ORD-0227,2024-05-07,Rocket Motor XZ-100,Engines,8,156.86,15,1066.65,10.71,UK,University,Referral,Manual,Pending
+ORD-0228,2024-06-18,Flight Computer ZB,Electronics,1,134.13,20,107.3,11.7,Mexico,Company,Referral,PayPal,Refunded
+ORD-0229,2024-02-17,Telemetry Kit Alpha,Electronics,6,100.77,25,453.47,7.09,USA,Hobbyist,Referral,PayPal,Refunded
+ORD-0230,2024-03-19,Fuel Cell GX,Fuel Systems,2,102.01,25,153.02,2.26,Mexico,Hobbyist,Mobile App,PayPal,Completed
+ORD-0231,2024-05-12,Launch Pad Mini,Hardware,10,30.16,20,241.28,0.3,Canada,Company,Online,PayPal,Completed
+ORD-0232,2024-03-07,Flight Computer ZB,Electronics,9,71.67,0,645.03,14.48,USA,Company,Referral,Manual,Completed
+ORD-0233,2024-04-04,Parachute Recovery Pack,Safety,4,168.1,10,605.16,4.56,USA,Company,Mobile App,PayPal,Pending
+ORD-0234,2024-06-07,Fuel Cell GX,Fuel Systems,7,119.55,20,669.48,12.09,Mexico,University,Mobile App,Manual,Pending
+ORD-0235,2024-06-24,Flight Computer ZB,Electronics,3,162.01,15,413.13,10.08,UK,Hobbyist,Mobile App,PayPal,Completed
+ORD-0236,2024-03-11,Parachute Recovery Pack,Safety,3,193.46,10,522.34,6.86,Mexico,Company,Online,PayPal,Pending
+ORD-0237,2024-03-28,Launch Pad Mini,Hardware,8,24.34,25,146.04,0.21,Germany,Hobbyist,Mobile App,PayPal,Completed
+ORD-0238,2024-05-10,Parachute Recovery Pack,Safety,9,140.29,0,1262.61,13.34,UK,Company,Online,Manual,Completed
+ORD-0239,2024-02-28,Telemetry Kit Alpha,Electronics,9,188.71,25,1273.79,1.53,Japan,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0240,2024-03-13,Ignition Module V2,Electronics,3,169.25,10,456.98,3.45,Germany,Company,Mobile App,Manual,Pending
+ORD-0241,2024-04-24,Ignition Module V2,Electronics,5,90.19,15,383.31,0.02,Japan,Company,Referral,Manual,Pending
+ORD-0242,2024-06-19,Launch Pad Mini,Hardware,4,66.19,10,238.28,1.34,Canada,Company,Mobile App,PayPal,Refunded
+ORD-0243,2024-03-30,Ignition Module V2,Electronics,2,165.74,25,248.61,8.63,USA,Hobbyist,Referral,Manual,Completed
+ORD-0244,2024-02-18,Telemetry Kit Alpha,Electronics,5,45.02,5,213.84,5.89,Canada,University,Referral,Stripe,Pending
+ORD-0245,2024-05-07,Thruster C-21,Engines,4,180.25,25,540.75,11.73,Germany,Hobbyist,Referral,Manual,Refunded
+ORD-0246,2024-01-23,Telemetry Kit Alpha,Electronics,10,190.82,15,1621.97,14.61,Mexico,Hobbyist,Referral,PayPal,Completed
+ORD-0247,2024-01-18,Flight Computer ZB,Electronics,7,87.28,5,580.41,10.29,UK,University,Online,PayPal,Refunded
+ORD-0248,2024-05-01,Flight Computer ZB,Electronics,1,162.5,15,138.12,14.79,Brazil,University,Referral,PayPal,Completed
+ORD-0249,2024-02-06,Fuel Cell GX,Fuel Systems,10,105.86,25,793.95,14.8,Germany,Company,Online,Stripe,Completed
+ORD-0250,2024-06-24,Fuel Cell GX,Fuel Systems,6,140.64,20,675.07,8.13,USA,Company,Online,PayPal,Refunded
+ORD-0251,2024-03-01,Thruster C-21,Engines,5,75.82,5,360.14,2.02,Germany,Hobbyist,Referral,Stripe,Pending
+ORD-0252,2024-06-22,Rocket Motor XZ-100,Engines,10,194.6,25,1459.5,6.8,Japan,Hobbyist,Mobile App,Manual,Refunded
+ORD-0253,2024-05-17,Parachute Recovery Pack,Safety,7,196.42,15,1168.7,3.24,UK,Hobbyist,Online,Stripe,Pending
+ORD-0254,2024-06-14,Thruster C-21,Engines,4,178.97,25,536.91,8.37,Germany,Hobbyist,Online,PayPal,Completed
+ORD-0255,2024-06-06,Thruster C-21,Engines,4,55.12,20,176.38,3.13,Mexico,Hobbyist,Referral,Manual,Refunded
+ORD-0256,2024-03-21,Flight Computer ZB,Electronics,10,50.34,15,427.89,12.8,Japan,Hobbyist,Mobile App,Manual,Pending
+ORD-0257,2024-05-16,Launch Pad Mini,Hardware,3,152.38,15,388.57,3.83,Canada,University,Referral,Stripe,Pending
+ORD-0258,2024-03-04,Telemetry Kit Alpha,Electronics,4,80.1,10,288.36,3.71,USA,Company,Online,Manual,Completed
+ORD-0259,2024-01-10,Ignition Module V2,Electronics,3,117.26,25,263.84,1.21,Brazil,University,Referral,Stripe,Completed
+ORD-0260,2024-02-14,Telemetry Kit Alpha,Electronics,1,79.07,0,79.07,0.4,Brazil,Hobbyist,Online,Stripe,Completed
+ORD-0261,2024-05-30,Thruster C-21,Engines,9,196.37,15,1502.23,9.5,UK,University,Online,Stripe,Refunded
+ORD-0262,2024-02-16,Flight Computer ZB,Electronics,7,100.2,25,526.05,6.88,Mexico,University,Referral,Stripe,Pending
+ORD-0263,2024-05-09,Ignition Module V2,Electronics,2,27.05,20,43.28,1.52,Mexico,Hobbyist,Referral,Manual,Pending
+ORD-0264,2024-06-01,Rocket Motor XZ-100,Engines,5,187.48,10,843.66,9.78,Mexico,University,Online,PayPal,Refunded
+ORD-0265,2024-03-28,Fuel Cell GX,Fuel Systems,8,101.97,25,611.82,2.72,Brazil,Company,Online,Stripe,Pending
+ORD-0266,2024-03-29,Telemetry Kit Alpha,Electronics,10,36.79,5,349.5,6.9,Japan,Company,Online,PayPal,Refunded
+ORD-0267,2024-01-14,Ignition Module V2,Electronics,3,106.16,30,222.94,5.54,Brazil,University,Mobile App,Stripe,Pending
+ORD-0268,2024-01-23,Telemetry Kit Alpha,Electronics,9,93.85,15,717.95,0.87,Mexico,Company,Referral,Stripe,Completed
+ORD-0269,2024-01-21,Flight Computer ZB,Electronics,10,53.26,5,505.97,6.63,Mexico,Hobbyist,Online,Manual,Pending
+ORD-0270,2024-06-07,Parachute Recovery Pack,Safety,10,152.74,15,1298.29,0.03,Germany,Company,Online,PayPal,Refunded
+ORD-0271,2024-05-13,Thruster C-21,Engines,8,163.83,15,1114.04,9.7,Germany,University,Referral,Manual,Refunded
+ORD-0272,2024-02-16,Parachute Recovery Pack,Safety,9,32.21,25,217.42,9.74,Mexico,University,Online,Stripe,Completed
+ORD-0273,2024-02-20,Rocket Motor XZ-100,Engines,1,58.18,15,49.45,14.5,UK,Hobbyist,Mobile App,Manual,Completed
+ORD-0274,2024-05-26,Ignition Module V2,Electronics,6,171.35,15,873.88,12.58,Germany,Hobbyist,Online,PayPal,Refunded
+ORD-0275,2024-03-02,Launch Pad Mini,Hardware,10,131.93,10,1187.37,13.17,Brazil,Hobbyist,Mobile App,Stripe,Completed
+ORD-0276,2024-02-28,Launch Pad Mini,Hardware,5,65.29,20,261.16,8.25,Germany,Hobbyist,Online,PayPal,Pending
+ORD-0277,2024-01-05,Telemetry Kit Alpha,Electronics,2,60.12,15,102.2,0.03,Brazil,Company,Referral,Manual,Pending
+ORD-0278,2024-04-20,Telemetry Kit Alpha,Electronics,4,141.56,30,396.37,13.98,Canada,Company,Online,Manual,Refunded
+ORD-0279,2024-01-30,Flight Computer ZB,Electronics,1,23.23,30,16.26,6.87,UK,University,Mobile App,PayPal,Pending
+ORD-0280,2024-01-10,Fuel Cell GX,Fuel Systems,10,112.84,10,1015.56,4.59,UK,Hobbyist,Online,PayPal,Pending
+ORD-0281,2024-05-05,Fuel Cell GX,Fuel Systems,5,73.09,0,365.45,5.58,Canada,Hobbyist,Mobile App,Stripe,Completed
+ORD-0282,2024-06-18,Fuel Cell GX,Fuel Systems,8,189.36,15,1287.65,1.99,UK,Hobbyist,Online,Stripe,Pending
+ORD-0283,2024-03-10,Launch Pad Mini,Hardware,2,81.47,5,154.79,1.87,Canada,Company,Referral,Stripe,Pending
+ORD-0284,2024-01-07,Launch Pad Mini,Hardware,1,81.08,30,56.76,0.95,Canada,Hobbyist,Referral,Manual,Refunded
+ORD-0285,2024-04-01,Fuel Cell GX,Fuel Systems,1,74.89,30,52.42,5.29,Mexico,Hobbyist,Referral,Stripe,Completed
+ORD-0286,2024-03-22,Launch Pad Mini,Hardware,10,143.4,25,1075.5,3.08,Mexico,Company,Referral,Manual,Refunded
+ORD-0287,2024-03-30,Rocket Motor XZ-100,Engines,9,90.71,5,775.57,8.83,Germany,Hobbyist,Online,Stripe,Completed
+ORD-0288,2024-04-20,Telemetry Kit Alpha,Electronics,5,76.22,30,266.77,3.31,Mexico,Company,Mobile App,Manual,Refunded
+ORD-0289,2024-02-18,Fuel Cell GX,Fuel Systems,5,181.18,30,634.13,1.76,Germany,University,Referral,Stripe,Completed
+ORD-0290,2024-03-16,Rocket Motor XZ-100,Engines,9,164.34,15,1257.2,13.39,Brazil,University,Online,Manual,Completed
+ORD-0291,2024-01-26,Rocket Motor XZ-100,Engines,3,49.94,0,149.82,3.77,USA,Hobbyist,Referral,Manual,Refunded
+ORD-0292,2024-06-22,Parachute Recovery Pack,Safety,4,138.46,10,498.46,14.38,Japan,University,Referral,Manual,Completed
+ORD-0293,2024-05-10,Ignition Module V2,Electronics,2,185.2,0,370.4,11.65,Japan,Company,Mobile App,PayPal,Pending
+ORD-0294,2024-05-23,Launch Pad Mini,Hardware,3,154.93,30,325.35,5.36,UK,Company,Referral,PayPal,Refunded
+ORD-0295,2024-01-20,Parachute Recovery Pack,Safety,8,72.46,20,463.74,8.67,USA,Company,Online,Stripe,Completed
+ORD-0296,2024-03-06,Fuel Cell GX,Fuel Systems,9,125.48,15,959.92,12.51,Brazil,Hobbyist,Online,Stripe,Completed
+ORD-0297,2024-03-20,Fuel Cell GX,Fuel Systems,7,52.56,25,275.94,12.22,Japan,Hobbyist,Mobile App,Stripe,Completed
+ORD-0298,2024-03-02,Fuel Cell GX,Fuel Systems,9,59.24,25,399.87,14.29,Canada,Company,Referral,Stripe,Completed
+ORD-0299,2024-06-22,Rocket Motor XZ-100,Engines,9,148.25,15,1134.11,2.93,USA,Hobbyist,Referral,Stripe,Pending
+ORD-0300,2024-04-26,Fuel Cell GX,Fuel Systems,8,92.92,30,520.35,3.43,Brazil,Company,Online,PayPal,Pending
+ORD-0301,2024-04-11,Rocket Motor XZ-100,Engines,8,81.41,20,521.02,0.28,Germany,University,Mobile App,PayPal,Completed
+ORD-0302,2024-01-06,Flight Computer ZB,Electronics,9,111.94,30,705.22,5.26,Mexico,University,Referral,Stripe,Refunded
+ORD-0303,2024-05-19,Flight Computer ZB,Electronics,8,177.95,15,1210.06,6.08,USA,Hobbyist,Referral,Manual,Completed
+ORD-0304,2024-06-25,Ignition Module V2,Electronics,7,121.02,15,720.07,3.68,Germany,Hobbyist,Referral,PayPal,Completed
+ORD-0305,2024-01-30,Fuel Cell GX,Fuel Systems,1,105.97,25,79.48,4.93,UK,Hobbyist,Online,PayPal,Pending
+ORD-0306,2024-03-28,Launch Pad Mini,Hardware,6,161.55,15,823.9,9.43,Japan,University,Mobile App,PayPal,Refunded
+ORD-0307,2024-06-16,Telemetry Kit Alpha,Electronics,3,91.23,0,273.69,7.33,USA,Company,Mobile App,Manual,Pending
+ORD-0308,2024-02-03,Ignition Module V2,Electronics,10,62.14,0,621.4,13.54,Germany,Hobbyist,Online,PayPal,Refunded
+ORD-0309,2024-05-26,Parachute Recovery Pack,Safety,9,196.61,10,1592.54,14.06,USA,Company,Mobile App,Manual,Pending
+ORD-0310,2024-02-10,Thruster C-21,Engines,7,191.06,5,1270.55,9.74,Brazil,University,Referral,Stripe,Refunded
+ORD-0311,2024-01-17,Parachute Recovery Pack,Safety,9,23.03,10,186.54,11.23,Brazil,Hobbyist,Online,Stripe,Completed
+ORD-0312,2024-06-29,Ignition Module V2,Electronics,8,109.53,15,744.8,7.49,UK,Hobbyist,Mobile App,Stripe,Pending
+ORD-0313,2024-04-05,Parachute Recovery Pack,Safety,4,189.7,25,569.1,9.67,Canada,Company,Referral,PayPal,Completed
+ORD-0314,2024-01-23,Thruster C-21,Engines,6,76.41,25,343.84,1.13,Mexico,Company,Online,Manual,Pending
+ORD-0315,2024-06-10,Ignition Module V2,Electronics,3,45.73,10,123.47,1.33,USA,Company,Online,PayPal,Completed
+ORD-0316,2024-02-21,Launch Pad Mini,Hardware,5,22.95,10,103.28,2.99,UK,Company,Referral,Stripe,Pending
+ORD-0317,2024-02-13,Telemetry Kit Alpha,Electronics,10,191.22,0,1912.2,8.61,Brazil,University,Online,Manual,Pending
+ORD-0318,2024-04-18,Thruster C-21,Engines,1,106.91,10,96.22,2.45,Japan,University,Online,Manual,Refunded
+ORD-0319,2024-05-29,Rocket Motor XZ-100,Engines,9,196.93,10,1595.13,0.22,UK,Company,Online,Stripe,Completed
+ORD-0320,2024-06-09,Ignition Module V2,Electronics,6,86.28,0,517.68,11.95,Japan,Hobbyist,Referral,Stripe,Refunded
+ORD-0321,2024-02-26,Fuel Cell GX,Fuel Systems,3,28.57,15,72.85,0.32,UK,Company,Referral,Stripe,Pending
+ORD-0322,2024-04-27,Parachute Recovery Pack,Safety,10,108.63,0,1086.3,14.98,Germany,Hobbyist,Mobile App,Manual,Completed
+ORD-0323,2024-04-17,Launch Pad Mini,Hardware,10,29.13,25,218.47,9.39,USA,Hobbyist,Referral,Manual,Refunded
+ORD-0324,2024-04-30,Telemetry Kit Alpha,Electronics,10,60.44,30,423.08,13.25,Germany,Hobbyist,Mobile App,PayPal,Completed
+ORD-0325,2024-03-30,Launch Pad Mini,Hardware,4,195.67,20,626.14,14.03,UK,University,Mobile App,Manual,Pending
+ORD-0326,2024-01-29,Launch Pad Mini,Hardware,5,82.85,25,310.69,2.82,Mexico,Hobbyist,Mobile App,Stripe,Completed
+ORD-0327,2024-01-01,Telemetry Kit Alpha,Electronics,7,26.64,5,177.16,2.24,UK,Hobbyist,Mobile App,Manual,Completed
+ORD-0328,2024-02-25,Flight Computer ZB,Electronics,5,135.1,15,574.17,4.8,Brazil,Hobbyist,Mobile App,Manual,Completed
+ORD-0329,2024-05-05,Launch Pad Mini,Hardware,2,129.07,15,219.42,3.85,Canada,Hobbyist,Mobile App,PayPal,Completed
+ORD-0330,2024-03-11,Parachute Recovery Pack,Safety,5,66.95,10,301.28,7.94,UK,Company,Referral,PayPal,Refunded
+ORD-0331,2024-06-09,Thruster C-21,Engines,2,34.35,20,54.96,4.23,Germany,Hobbyist,Referral,Stripe,Pending
+ORD-0332,2024-04-15,Telemetry Kit Alpha,Electronics,1,98.28,25,73.71,9.95,Canada,Hobbyist,Online,Manual,Pending
+ORD-0333,2024-05-15,Rocket Motor XZ-100,Engines,7,198.56,25,1042.44,7.48,Mexico,University,Online,Stripe,Pending
+ORD-0334,2024-04-20,Flight Computer ZB,Electronics,1,82.86,15,70.43,6.91,USA,Company,Mobile App,Stripe,Refunded
+ORD-0335,2024-05-15,Thruster C-21,Engines,8,171.67,0,1373.36,2.05,Mexico,Hobbyist,Online,PayPal,Refunded
+ORD-0336,2024-03-21,Parachute Recovery Pack,Safety,4,65.96,10,237.46,0.06,Japan,Hobbyist,Referral,Manual,Pending
+ORD-0337,2024-06-17,Rocket Motor XZ-100,Engines,10,145.23,0,1452.3,1.54,Canada,Hobbyist,Mobile App,PayPal,Pending
+ORD-0338,2024-04-25,Telemetry Kit Alpha,Electronics,8,51.21,10,368.71,2.81,UK,University,Online,Manual,Completed
+ORD-0339,2024-05-23,Fuel Cell GX,Fuel Systems,2,32.51,5,61.77,9.64,Brazil,Hobbyist,Mobile App,Manual,Pending
+ORD-0340,2024-03-20,Rocket Motor XZ-100,Engines,9,47.89,30,301.71,4.07,Japan,Hobbyist,Mobile App,PayPal,Pending
+ORD-0341,2024-05-06,Fuel Cell GX,Fuel Systems,5,100.78,15,428.31,0.75,Japan,Hobbyist,Online,Manual,Pending
+ORD-0342,2024-03-10,Launch Pad Mini,Hardware,6,39.88,0,239.28,3.73,Canada,Hobbyist,Online,Stripe,Pending
+ORD-0343,2024-03-15,Telemetry Kit Alpha,Electronics,4,55.7,25,167.1,7.85,Brazil,Company,Mobile App,PayPal,Completed
+ORD-0344,2024-06-26,Fuel Cell GX,Fuel Systems,5,176.56,30,617.96,6.71,Germany,Company,Mobile App,Stripe,Refunded
+ORD-0345,2024-05-31,Telemetry Kit Alpha,Electronics,9,39.31,25,265.34,2.39,Japan,Company,Mobile App,Manual,Refunded
+ORD-0346,2024-03-08,Flight Computer ZB,Electronics,2,171.55,25,257.33,4.44,Canada,University,Mobile App,Manual,Refunded
+ORD-0347,2024-04-14,Rocket Motor XZ-100,Engines,7,133.72,25,702.03,10.75,Mexico,Company,Mobile App,Manual,Completed
+ORD-0348,2024-06-23,Launch Pad Mini,Hardware,9,101.28,10,820.37,7.77,USA,Company,Referral,Manual,Refunded
+ORD-0349,2024-04-09,Fuel Cell GX,Fuel Systems,10,132.29,10,1190.61,1.4,Brazil,University,Mobile App,Manual,Completed
+ORD-0350,2024-03-28,Fuel Cell GX,Fuel Systems,2,46.18,20,73.89,14.29,Canada,Hobbyist,Mobile App,Stripe,Completed
+ORD-0351,2024-06-26,Flight Computer ZB,Electronics,2,140.44,20,224.7,11.76,Mexico,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0352,2024-02-25,Parachute Recovery Pack,Safety,10,151.64,10,1364.76,8.6,Germany,Company,Online,Manual,Pending
+ORD-0353,2024-01-11,Fuel Cell GX,Fuel Systems,8,162.99,30,912.74,7.01,Japan,University,Online,Manual,Completed
+ORD-0354,2024-02-17,Thruster C-21,Engines,2,74.93,15,127.38,14.75,Canada,Company,Mobile App,PayPal,Completed
+ORD-0355,2024-01-30,Thruster C-21,Engines,8,71.11,10,511.99,9.1,USA,Company,Mobile App,PayPal,Pending
+ORD-0356,2024-06-28,Thruster C-21,Engines,3,174.69,25,393.05,1.08,Canada,Hobbyist,Referral,Manual,Refunded
+ORD-0357,2024-06-16,Ignition Module V2,Electronics,9,68.84,15,526.63,1.72,Brazil,Company,Mobile App,Manual,Completed
+ORD-0358,2024-03-14,Thruster C-21,Engines,10,40.45,10,364.05,1.35,Mexico,University,Online,Manual,Refunded
+ORD-0359,2024-02-05,Flight Computer ZB,Electronics,10,164.82,0,1648.2,0.83,Germany,Company,Online,Stripe,Completed
+ORD-0360,2024-03-04,Rocket Motor XZ-100,Engines,2,40.59,0,81.18,14.06,Mexico,Company,Referral,Stripe,Pending
+ORD-0361,2024-06-04,Telemetry Kit Alpha,Electronics,8,76.7,5,582.92,8.45,Mexico,Company,Mobile App,PayPal,Completed
+ORD-0362,2024-03-15,Launch Pad Mini,Hardware,8,183.84,30,1029.5,9.84,UK,Company,Mobile App,Stripe,Pending
+ORD-0363,2024-04-12,Telemetry Kit Alpha,Electronics,7,24.59,15,146.31,11.84,Brazil,University,Referral,Stripe,Pending
+ORD-0364,2024-02-29,Ignition Module V2,Electronics,5,99.56,10,448.02,6.15,UK,University,Referral,Manual,Completed
+ORD-0365,2024-06-03,Telemetry Kit Alpha,Electronics,2,191.42,5,363.7,12.32,Mexico,University,Mobile App,Stripe,Completed
+ORD-0366,2024-02-17,Telemetry Kit Alpha,Electronics,4,126.52,15,430.17,12.95,USA,Hobbyist,Online,Stripe,Refunded
+ORD-0367,2024-04-22,Launch Pad Mini,Hardware,8,85.67,10,616.82,11.19,Canada,Company,Referral,PayPal,Completed
+ORD-0368,2024-06-04,Telemetry Kit Alpha,Electronics,8,94.39,25,566.34,0.12,Brazil,University,Mobile App,Stripe,Completed
+ORD-0369,2024-06-02,Telemetry Kit Alpha,Electronics,3,118.21,0,354.63,3.38,UK,Hobbyist,Referral,PayPal,Refunded
+ORD-0370,2024-06-27,Telemetry Kit Alpha,Electronics,9,151.5,0,1363.5,3.98,UK,University,Mobile App,PayPal,Pending
+ORD-0371,2024-03-29,Parachute Recovery Pack,Safety,10,21.22,20,169.76,5.1,Brazil,Company,Online,Stripe,Refunded
+ORD-0372,2024-05-25,Parachute Recovery Pack,Safety,10,138.25,15,1175.12,1.82,Brazil,Company,Online,Stripe,Refunded
+ORD-0373,2024-04-26,Rocket Motor XZ-100,Engines,8,130.07,15,884.48,2.93,Brazil,University,Referral,Manual,Pending
+ORD-0374,2024-05-13,Launch Pad Mini,Hardware,1,189.41,20,151.53,12.81,Brazil,University,Referral,Manual,Refunded
+ORD-0375,2024-01-15,Flight Computer ZB,Electronics,5,81.26,25,304.73,0.21,Canada,Hobbyist,Mobile App,Manual,Completed
+ORD-0376,2024-06-01,Fuel Cell GX,Fuel Systems,1,61.84,10,55.66,2.69,Canada,Hobbyist,Referral,Manual,Pending
+ORD-0377,2024-01-25,Rocket Motor XZ-100,Engines,6,25.03,5,142.67,9.59,Germany,Company,Online,Stripe,Completed
+ORD-0378,2024-01-18,Thruster C-21,Engines,10,102.44,25,768.3,7.46,Canada,University,Referral,PayPal,Completed
+ORD-0379,2024-03-14,Ignition Module V2,Electronics,10,195.79,25,1468.42,11.44,Brazil,Company,Referral,Manual,Completed
+ORD-0380,2024-06-06,Ignition Module V2,Electronics,10,37.7,30,263.9,9.43,Brazil,Company,Mobile App,PayPal,Pending
+ORD-0381,2024-04-11,Thruster C-21,Engines,5,95.66,25,358.73,10.48,Brazil,Hobbyist,Referral,Manual,Refunded
+ORD-0382,2024-04-16,Thruster C-21,Engines,10,31.05,15,263.92,9.37,UK,Hobbyist,Online,Stripe,Refunded
+ORD-0383,2024-03-31,Parachute Recovery Pack,Safety,3,102.93,25,231.59,2.57,UK,Company,Mobile App,Manual,Pending
+ORD-0384,2024-04-26,Parachute Recovery Pack,Safety,3,174.97,30,367.44,1.42,UK,Hobbyist,Mobile App,Manual,Pending
+ORD-0385,2024-01-14,Rocket Motor XZ-100,Engines,10,87.67,15,745.19,9.75,Japan,Company,Mobile App,Manual,Refunded
+ORD-0386,2024-05-10,Ignition Module V2,Electronics,6,172.44,10,931.18,11.19,Brazil,University,Referral,Manual,Pending
+ORD-0387,2024-05-03,Telemetry Kit Alpha,Electronics,1,146.4,25,109.8,14.7,UK,University,Referral,PayPal,Pending
+ORD-0388,2024-05-28,Fuel Cell GX,Fuel Systems,6,173.23,15,883.47,1.0,USA,Hobbyist,Referral,Manual,Refunded
+ORD-0389,2024-06-12,Parachute Recovery Pack,Safety,3,86.98,30,182.66,8.3,Japan,Company,Online,PayPal,Pending
+ORD-0390,2024-01-02,Thruster C-21,Engines,5,31.98,30,111.93,4.24,Canada,Company,Online,Manual,Refunded
+ORD-0391,2024-04-26,Parachute Recovery Pack,Safety,10,69.94,15,594.49,8.57,Brazil,Company,Online,Manual,Refunded
+ORD-0392,2024-05-03,Telemetry Kit Alpha,Electronics,5,60.46,0,302.3,12.29,UK,Hobbyist,Online,Manual,Completed
+ORD-0393,2024-06-09,Thruster C-21,Engines,8,85.65,20,548.16,3.4,Brazil,Hobbyist,Mobile App,Manual,Refunded
+ORD-0394,2024-01-01,Fuel Cell GX,Fuel Systems,8,192.02,5,1459.35,9.13,USA,Company,Online,Stripe,Refunded
+ORD-0395,2024-05-23,Flight Computer ZB,Electronics,9,31.33,15,239.67,5.72,Germany,Hobbyist,Online,Manual,Pending
+ORD-0396,2024-03-09,Launch Pad Mini,Hardware,3,35.82,15,91.34,12.97,Japan,Company,Referral,PayPal,Completed
+ORD-0397,2024-03-26,Rocket Motor XZ-100,Engines,7,143.98,15,856.68,14.89,USA,Hobbyist,Mobile App,Stripe,Completed
+ORD-0398,2024-04-06,Launch Pad Mini,Hardware,3,125.23,25,281.77,14.27,USA,University,Referral,Manual,Refunded
+ORD-0399,2024-02-13,Parachute Recovery Pack,Safety,2,25.73,30,36.02,0.06,Germany,Company,Mobile App,Manual,Refunded
+ORD-0400,2024-04-04,Launch Pad Mini,Hardware,9,47.49,0,427.41,10.89,Germany,University,Referral,PayPal,Completed
+ORD-0401,2024-02-29,Thruster C-21,Engines,1,65.34,20,52.27,10.76,USA,University,Online,Stripe,Completed
+ORD-0402,2024-01-01,Ignition Module V2,Electronics,1,31.41,25,23.56,5.73,Brazil,University,Mobile App,PayPal,Pending
+ORD-0403,2024-04-08,Telemetry Kit Alpha,Electronics,3,72.3,5,206.05,10.67,UK,Company,Mobile App,Manual,Completed
+ORD-0404,2024-01-29,Rocket Motor XZ-100,Engines,4,134.9,15,458.66,2.99,Brazil,Company,Mobile App,PayPal,Refunded
+ORD-0405,2024-01-30,Launch Pad Mini,Hardware,3,180.29,10,486.78,8.13,UK,University,Mobile App,PayPal,Pending
+ORD-0406,2024-06-08,Parachute Recovery Pack,Safety,3,27.46,5,78.26,1.26,Mexico,University,Referral,Manual,Pending
+ORD-0407,2024-04-22,Fuel Cell GX,Fuel Systems,10,114.97,5,1092.21,9.99,Japan,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0408,2024-05-25,Rocket Motor XZ-100,Engines,6,150.26,10,811.4,10.85,Japan,Hobbyist,Referral,Stripe,Completed
+ORD-0409,2024-04-09,Ignition Module V2,Electronics,10,63.18,0,631.8,2.2,Germany,Company,Referral,PayPal,Completed
+ORD-0410,2024-05-10,Rocket Motor XZ-100,Engines,2,47.26,15,80.34,3.12,Mexico,University,Mobile App,Stripe,Completed
+ORD-0411,2024-03-21,Parachute Recovery Pack,Safety,7,85.65,15,509.62,9.5,UK,Company,Online,Stripe,Pending
+ORD-0412,2024-06-21,Flight Computer ZB,Electronics,9,24.34,20,175.25,5.26,Brazil,University,Online,Manual,Completed
+ORD-0413,2024-05-05,Launch Pad Mini,Hardware,3,176.3,20,423.12,10.97,Japan,Company,Referral,Manual,Pending
+ORD-0414,2024-01-07,Flight Computer ZB,Electronics,10,72.08,25,540.6,7.49,USA,University,Online,Manual,Completed
+ORD-0415,2024-05-04,Ignition Module V2,Electronics,8,79.26,25,475.56,2.89,Mexico,Company,Online,Manual,Completed
+ORD-0416,2024-05-08,Launch Pad Mini,Hardware,8,25.8,15,175.44,13.47,Mexico,Hobbyist,Referral,PayPal,Refunded
+ORD-0417,2024-06-13,Fuel Cell GX,Fuel Systems,2,153.18,0,306.36,13.03,Japan,Hobbyist,Online,Stripe,Refunded
+ORD-0418,2024-06-04,Fuel Cell GX,Fuel Systems,2,162.77,25,244.16,4.35,Germany,University,Mobile App,PayPal,Completed
+ORD-0419,2024-04-07,Rocket Motor XZ-100,Engines,3,171.54,0,514.62,6.81,UK,Company,Online,Manual,Completed
+ORD-0420,2024-01-16,Ignition Module V2,Electronics,6,183.44,15,935.54,9.06,Canada,Company,Online,Manual,Refunded
+ORD-0421,2024-05-06,Parachute Recovery Pack,Safety,8,62.41,0,499.28,5.79,Brazil,Hobbyist,Referral,Manual,Completed
+ORD-0422,2024-04-10,Ignition Module V2,Electronics,4,91.3,10,328.68,6.97,USA,Company,Mobile App,PayPal,Refunded
+ORD-0423,2024-01-11,Rocket Motor XZ-100,Engines,3,137.0,5,390.45,3.37,Germany,Hobbyist,Online,PayPal,Refunded
+ORD-0424,2024-01-13,Parachute Recovery Pack,Safety,10,38.05,25,285.38,10.09,UK,University,Mobile App,Manual,Completed
+ORD-0425,2024-02-01,Launch Pad Mini,Hardware,8,75.96,5,577.3,13.54,Japan,Hobbyist,Online,Manual,Pending
+ORD-0426,2024-04-03,Rocket Motor XZ-100,Engines,3,47.56,25,107.01,2.43,UK,Hobbyist,Mobile App,Stripe,Completed
+ORD-0427,2024-06-01,Flight Computer ZB,Electronics,10,26.22,5,249.09,7.17,UK,University,Referral,Manual,Refunded
+ORD-0428,2024-05-14,Telemetry Kit Alpha,Electronics,6,119.72,5,682.4,10.14,Mexico,Hobbyist,Referral,Manual,Pending
+ORD-0429,2024-06-14,Thruster C-21,Engines,2,55.14,15,93.74,4.35,USA,University,Referral,Stripe,Refunded
+ORD-0430,2024-01-03,Thruster C-21,Engines,7,54.75,30,268.27,8.64,Brazil,Company,Online,PayPal,Pending
+ORD-0431,2024-01-30,Flight Computer ZB,Electronics,3,31.37,25,70.58,11.91,Mexico,University,Online,Stripe,Pending
+ORD-0432,2024-01-11,Thruster C-21,Engines,7,169.53,20,949.37,14.92,Canada,Hobbyist,Referral,PayPal,Refunded
+ORD-0433,2024-03-26,Rocket Motor XZ-100,Engines,9,140.82,10,1140.64,14.22,Japan,University,Mobile App,Stripe,Completed
+ORD-0434,2024-05-12,Fuel Cell GX,Fuel Systems,5,78.21,10,351.94,13.57,Canada,Hobbyist,Mobile App,PayPal,Completed
+ORD-0435,2024-01-03,Ignition Module V2,Electronics,10,151.43,0,1514.3,0.48,Mexico,Hobbyist,Mobile App,Stripe,Completed
+ORD-0436,2024-06-19,Launch Pad Mini,Hardware,3,87.23,30,183.18,13.42,Canada,Hobbyist,Referral,Manual,Pending
+ORD-0437,2024-02-28,Parachute Recovery Pack,Safety,6,54.22,25,243.99,6.38,USA,University,Referral,Manual,Completed
+ORD-0438,2024-05-29,Fuel Cell GX,Fuel Systems,4,176.78,20,565.7,1.84,Japan,University,Mobile App,Manual,Pending
+ORD-0439,2024-02-14,Thruster C-21,Engines,10,196.04,10,1764.36,12.45,Japan,University,Referral,Stripe,Completed
+ORD-0440,2024-02-24,Telemetry Kit Alpha,Electronics,5,33.07,30,115.74,6.04,Brazil,Hobbyist,Online,PayPal,Refunded
+ORD-0441,2024-05-26,Telemetry Kit Alpha,Electronics,5,63.85,5,303.29,3.93,Japan,Hobbyist,Referral,Manual,Refunded
+ORD-0442,2024-06-26,Parachute Recovery Pack,Safety,4,103.01,15,350.23,7.75,Japan,University,Referral,PayPal,Completed
+ORD-0443,2024-04-27,Ignition Module V2,Electronics,1,185.01,10,166.51,5.78,Japan,University,Referral,PayPal,Refunded
+ORD-0444,2024-03-30,Telemetry Kit Alpha,Electronics,1,141.64,15,120.39,4.1,Japan,Hobbyist,Mobile App,PayPal,Completed
+ORD-0445,2024-03-08,Thruster C-21,Engines,10,153.05,25,1147.88,7.69,Canada,Company,Mobile App,Manual,Refunded
+ORD-0446,2024-01-03,Rocket Motor XZ-100,Engines,3,146.68,10,396.04,0.83,Canada,Company,Online,PayPal,Refunded
+ORD-0447,2024-01-11,Parachute Recovery Pack,Safety,8,174.63,10,1257.34,8.32,USA,Hobbyist,Referral,PayPal,Pending
+ORD-0448,2024-02-29,Fuel Cell GX,Fuel Systems,2,168.84,15,287.03,10.39,UK,Company,Mobile App,Stripe,Refunded
+ORD-0449,2024-04-30,Launch Pad Mini,Hardware,1,99.83,30,69.88,14.02,Brazil,University,Referral,Manual,Pending
+ORD-0450,2024-06-11,Launch Pad Mini,Hardware,3,120.84,0,362.52,0.17,Mexico,Company,Referral,Stripe,Pending
+ORD-0451,2024-04-19,Ignition Module V2,Electronics,4,174.17,0,696.68,13.88,Germany,Company,Online,Manual,Completed
+ORD-0452,2024-06-14,Parachute Recovery Pack,Safety,8,172.4,15,1172.32,5.17,Japan,University,Mobile App,PayPal,Completed
+ORD-0453,2024-03-21,Launch Pad Mini,Hardware,6,63.95,30,268.59,0.26,Brazil,Company,Online,PayPal,Pending
+ORD-0454,2024-02-20,Parachute Recovery Pack,Safety,6,136.89,10,739.21,9.17,Germany,University,Mobile App,Stripe,Completed
+ORD-0455,2024-06-21,Rocket Motor XZ-100,Engines,9,37.2,30,234.36,1.93,Germany,University,Referral,PayPal,Refunded
+ORD-0456,2024-01-23,Launch Pad Mini,Hardware,10,101.4,0,1014.0,6.55,Mexico,Company,Mobile App,Manual,Pending
+ORD-0457,2024-01-22,Telemetry Kit Alpha,Electronics,4,105.61,0,422.44,2.84,Japan,Company,Online,Manual,Pending
+ORD-0458,2024-02-23,Fuel Cell GX,Fuel Systems,4,125.73,15,427.48,12.57,Mexico,University,Online,PayPal,Pending
+ORD-0459,2024-03-16,Fuel Cell GX,Fuel Systems,4,37.22,15,126.55,1.99,UK,Hobbyist,Mobile App,Manual,Pending
+ORD-0460,2024-06-13,Parachute Recovery Pack,Safety,10,97.19,20,777.52,9.01,Germany,Company,Mobile App,Manual,Pending
+ORD-0461,2024-02-18,Fuel Cell GX,Fuel Systems,6,75.48,30,317.02,3.59,Germany,Company,Mobile App,Stripe,Completed
+ORD-0462,2024-04-03,Thruster C-21,Engines,7,43.44,20,243.26,13.9,Germany,Company,Referral,Stripe,Completed
+ORD-0463,2024-06-22,Rocket Motor XZ-100,Engines,1,94.52,20,75.62,7.48,Brazil,Hobbyist,Referral,PayPal,Completed
+ORD-0464,2024-01-23,Fuel Cell GX,Fuel Systems,6,75.38,5,429.67,9.59,Brazil,Company,Online,Manual,Pending
+ORD-0465,2024-05-26,Flight Computer ZB,Electronics,4,129.37,10,465.73,12.99,Canada,Company,Online,PayPal,Pending
+ORD-0466,2024-02-11,Ignition Module V2,Electronics,10,139.97,5,1329.71,2.14,UK,Hobbyist,Mobile App,Manual,Refunded
+ORD-0467,2024-05-17,Telemetry Kit Alpha,Electronics,2,41.17,20,65.87,6.27,USA,Company,Mobile App,Stripe,Completed
+ORD-0468,2024-03-08,Thruster C-21,Engines,7,193.43,5,1286.31,12.8,UK,University,Referral,Manual,Pending
+ORD-0469,2024-06-25,Fuel Cell GX,Fuel Systems,5,198.73,20,794.92,3.35,USA,University,Referral,Manual,Completed
+ORD-0470,2024-05-17,Flight Computer ZB,Electronics,8,130.2,20,833.28,13.58,Japan,Company,Mobile App,PayPal,Completed
+ORD-0471,2024-05-18,Launch Pad Mini,Hardware,8,46.21,0,369.68,6.37,Japan,Company,Mobile App,Stripe,Pending
+ORD-0472,2024-06-09,Launch Pad Mini,Hardware,4,122.33,5,464.85,11.09,Japan,University,Mobile App,PayPal,Refunded
+ORD-0473,2024-01-15,Telemetry Kit Alpha,Electronics,10,179.85,0,1798.5,1.93,Germany,University,Online,Stripe,Completed
+ORD-0474,2024-06-20,Parachute Recovery Pack,Safety,7,131.92,15,784.92,0.9,USA,Hobbyist,Mobile App,Manual,Pending
+ORD-0475,2024-03-22,Launch Pad Mini,Hardware,10,26.16,5,248.52,9.64,USA,Hobbyist,Referral,PayPal,Completed
+ORD-0476,2024-05-20,Parachute Recovery Pack,Safety,9,89.03,30,560.89,5.23,UK,Hobbyist,Mobile App,Stripe,Pending
+ORD-0477,2024-01-13,Rocket Motor XZ-100,Engines,3,51.28,15,130.76,14.48,Mexico,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0478,2024-02-12,Ignition Module V2,Electronics,2,177.23,0,354.46,2.98,Germany,Company,Online,Manual,Pending
+ORD-0479,2024-04-17,Ignition Module V2,Electronics,9,55.22,0,496.98,11.63,Brazil,University,Online,PayPal,Refunded
+ORD-0480,2024-02-01,Thruster C-21,Engines,7,47.45,15,282.33,7.46,Canada,Hobbyist,Online,Stripe,Completed
+ORD-0481,2024-01-12,Thruster C-21,Engines,10,162.19,30,1135.33,6.51,Canada,Company,Mobile App,PayPal,Completed
+ORD-0482,2024-02-21,Ignition Module V2,Electronics,1,38.46,25,28.84,7.43,Brazil,Company,Mobile App,Manual,Refunded
+ORD-0483,2024-06-13,Telemetry Kit Alpha,Electronics,1,41.58,25,31.18,11.32,Mexico,Hobbyist,Referral,Manual,Refunded
+ORD-0484,2024-05-16,Fuel Cell GX,Fuel Systems,3,144.33,0,432.99,2.49,Canada,Hobbyist,Referral,Stripe,Pending
+ORD-0485,2024-01-18,Ignition Module V2,Electronics,9,152.35,10,1234.04,9.92,UK,Company,Online,PayPal,Completed
+ORD-0486,2024-03-16,Flight Computer ZB,Electronics,10,145.66,25,1092.45,1.16,Germany,University,Mobile App,PayPal,Pending
+ORD-0487,2024-06-22,Thruster C-21,Engines,6,132.87,30,558.05,10.39,Brazil,Company,Referral,Manual,Refunded
+ORD-0488,2024-06-05,Rocket Motor XZ-100,Engines,3,152.37,20,365.69,7.54,Canada,University,Online,Stripe,Refunded
+ORD-0489,2024-03-13,Fuel Cell GX,Fuel Systems,5,137.76,20,551.04,14.27,Germany,Hobbyist,Online,PayPal,Refunded
+ORD-0490,2024-03-01,Fuel Cell GX,Fuel Systems,3,21.15,30,44.41,4.56,USA,Hobbyist,Online,PayPal,Pending
+ORD-0491,2024-05-04,Thruster C-21,Engines,7,41.64,25,218.61,0.24,UK,Hobbyist,Online,PayPal,Completed
+ORD-0492,2024-02-12,Flight Computer ZB,Electronics,1,39.02,5,37.07,14.52,UK,University,Online,Manual,Completed
+ORD-0493,2024-06-02,Launch Pad Mini,Hardware,4,165.9,5,630.42,6.13,Canada,University,Online,Manual,Pending
+ORD-0494,2024-05-08,Launch Pad Mini,Hardware,7,21.45,5,142.64,1.87,Germany,Company,Mobile App,Manual,Completed
+ORD-0495,2024-02-16,Rocket Motor XZ-100,Engines,9,96.62,0,869.58,7.79,Brazil,Company,Referral,Manual,Pending
+ORD-0496,2024-02-18,Thruster C-21,Engines,1,108.28,10,97.45,2.61,USA,Company,Referral,Manual,Completed
+ORD-0497,2024-04-03,Parachute Recovery Pack,Safety,8,127.38,20,815.23,9.48,Canada,Hobbyist,Online,Stripe,Pending
+ORD-0498,2024-03-05,Thruster C-21,Engines,6,134.44,15,685.64,0.67,UK,University,Referral,PayPal,Completed
+ORD-0499,2024-06-20,Flight Computer ZB,Electronics,8,106.05,20,678.72,4.89,USA,Hobbyist,Referral,PayPal,Refunded
+ORD-0500,2024-06-08,Thruster C-21,Engines,1,95.8,0,95.8,1.3,UK,Company,Referral,Stripe,Completed
+ORD-0501,2024-05-08,Parachute Recovery Pack,Safety,9,63.18,20,454.9,0.05,Japan,University,Referral,PayPal,Completed
+ORD-0502,2024-02-23,Parachute Recovery Pack,Safety,8,197.31,5,1499.56,5.37,Mexico,Company,Online,PayPal,Completed
+ORD-0503,2024-02-12,Telemetry Kit Alpha,Electronics,8,28.06,20,179.58,5.65,Japan,Hobbyist,Referral,Manual,Pending
+ORD-0504,2024-04-12,Ignition Module V2,Electronics,3,101.74,10,274.7,8.05,Germany,University,Referral,Stripe,Completed
+ORD-0505,2024-05-13,Rocket Motor XZ-100,Engines,10,37.33,5,354.63,9.3,USA,University,Online,Manual,Pending
+ORD-0506,2024-06-11,Thruster C-21,Engines,10,44.48,5,422.56,6.73,Japan,Company,Online,Stripe,Refunded
+ORD-0507,2024-02-17,Parachute Recovery Pack,Safety,5,100.15,20,400.6,5.97,Japan,Company,Mobile App,PayPal,Refunded
+ORD-0508,2024-01-27,Thruster C-21,Engines,8,25.73,20,164.67,9.19,Brazil,University,Online,PayPal,Pending
+ORD-0509,2024-05-07,Ignition Module V2,Electronics,2,32.62,30,45.67,7.16,UK,University,Referral,Stripe,Pending
+ORD-0510,2024-02-12,Launch Pad Mini,Hardware,4,163.52,5,621.38,3.54,Germany,Hobbyist,Referral,Stripe,Completed
+ORD-0511,2024-03-17,Parachute Recovery Pack,Safety,1,119.47,20,95.58,9.03,Brazil,University,Online,PayPal,Completed
+ORD-0512,2024-06-02,Telemetry Kit Alpha,Electronics,1,92.55,10,83.3,7.82,Germany,University,Mobile App,Manual,Completed
+ORD-0513,2024-05-08,Fuel Cell GX,Fuel Systems,2,152.76,20,244.42,6.7,UK,Company,Referral,Manual,Completed
+ORD-0514,2024-06-25,Rocket Motor XZ-100,Engines,6,124.86,30,524.41,2.41,Mexico,Hobbyist,Referral,Manual,Refunded
+ORD-0515,2024-02-16,Rocket Motor XZ-100,Engines,4,78.3,25,234.9,5.01,UK,University,Online,PayPal,Pending
+ORD-0516,2024-01-13,Parachute Recovery Pack,Safety,5,178.22,15,757.43,14.05,Mexico,Hobbyist,Referral,Manual,Refunded
+ORD-0517,2024-05-26,Rocket Motor XZ-100,Engines,7,37.22,25,195.41,5.09,UK,Hobbyist,Referral,PayPal,Refunded
+ORD-0518,2024-03-12,Flight Computer ZB,Electronics,4,36.42,10,131.11,12.28,Germany,Company,Mobile App,PayPal,Refunded
+ORD-0519,2024-05-14,Flight Computer ZB,Electronics,3,48.11,20,115.46,8.54,USA,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0520,2024-03-30,Ignition Module V2,Electronics,6,38.1,5,217.17,0.07,Canada,Company,Referral,Manual,Completed
+ORD-0521,2024-05-29,Fuel Cell GX,Fuel Systems,2,162.4,30,227.36,7.3,Germany,Company,Referral,PayPal,Refunded
+ORD-0522,2024-02-09,Thruster C-21,Engines,3,87.37,20,209.69,3.44,UK,Company,Online,Manual,Pending
+ORD-0523,2024-04-22,Ignition Module V2,Electronics,1,38.74,15,32.93,0.13,Brazil,Company,Online,Stripe,Pending
+ORD-0524,2024-03-08,Thruster C-21,Engines,6,21.53,10,116.26,9.13,Germany,University,Referral,PayPal,Pending
+ORD-0525,2024-03-31,Telemetry Kit Alpha,Electronics,2,191.37,0,382.74,3.79,Japan,Company,Online,Stripe,Pending
+ORD-0526,2024-04-26,Launch Pad Mini,Hardware,5,175.24,0,876.2,6.01,Brazil,University,Mobile App,PayPal,Refunded
+ORD-0527,2024-04-14,Telemetry Kit Alpha,Electronics,8,144.17,20,922.69,3.27,Mexico,Hobbyist,Mobile App,PayPal,Completed
+ORD-0528,2024-06-03,Telemetry Kit Alpha,Electronics,2,56.61,5,107.56,0.94,UK,Company,Online,Stripe,Completed
+ORD-0529,2024-04-27,Launch Pad Mini,Hardware,7,113.15,20,633.64,14.54,Mexico,Hobbyist,Mobile App,Stripe,Completed
+ORD-0530,2024-02-12,Thruster C-21,Engines,10,88.1,5,836.95,3.9,Mexico,Hobbyist,Online,Stripe,Pending
+ORD-0531,2024-01-31,Parachute Recovery Pack,Safety,9,184.19,15,1409.05,11.69,Canada,University,Mobile App,PayPal,Completed
+ORD-0532,2024-04-18,Ignition Module V2,Electronics,8,127.41,30,713.5,2.34,Germany,Company,Mobile App,Manual,Refunded
+ORD-0533,2024-01-13,Thruster C-21,Engines,9,66.15,5,565.58,7.06,Canada,Hobbyist,Online,PayPal,Pending
+ORD-0534,2024-02-10,Flight Computer ZB,Electronics,6,86.16,5,491.11,11.95,Canada,University,Mobile App,PayPal,Refunded
+ORD-0535,2024-05-05,Telemetry Kit Alpha,Electronics,2,32.32,5,61.41,13.49,Canada,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0536,2024-06-20,Launch Pad Mini,Hardware,9,52.55,5,449.3,3.03,Germany,Company,Online,Manual,Completed
+ORD-0537,2024-01-17,Ignition Module V2,Electronics,2,92.46,20,147.94,4.75,Mexico,University,Online,PayPal,Pending
+ORD-0538,2024-06-25,Ignition Module V2,Electronics,9,42.12,0,379.08,11.48,USA,Hobbyist,Referral,PayPal,Pending
+ORD-0539,2024-04-30,Ignition Module V2,Electronics,8,51.55,0,412.4,4.61,Japan,University,Mobile App,Stripe,Refunded
+ORD-0540,2024-02-15,Rocket Motor XZ-100,Engines,3,70.26,0,210.78,7.49,Japan,University,Mobile App,Stripe,Refunded
+ORD-0541,2024-05-20,Launch Pad Mini,Hardware,7,59.68,20,334.21,6.3,Japan,Company,Online,Manual,Pending
+ORD-0542,2024-06-08,Thruster C-21,Engines,2,126.24,30,176.74,10.47,USA,University,Online,Manual,Pending
+ORD-0543,2024-04-29,Thruster C-21,Engines,5,138.32,10,622.44,3.75,Brazil,University,Online,Manual,Refunded
+ORD-0544,2024-05-07,Fuel Cell GX,Fuel Systems,7,44.64,0,312.48,7.38,Mexico,Hobbyist,Online,PayPal,Pending
+ORD-0545,2024-06-04,Fuel Cell GX,Fuel Systems,4,136.63,15,464.54,3.58,Canada,Hobbyist,Mobile App,Manual,Pending
+ORD-0546,2024-04-02,Ignition Module V2,Electronics,1,50.04,10,45.04,9.2,Brazil,Hobbyist,Online,PayPal,Pending
+ORD-0547,2024-06-28,Thruster C-21,Engines,4,76.78,5,291.76,2.3,USA,University,Online,Stripe,Completed
+ORD-0548,2024-02-10,Ignition Module V2,Electronics,8,21.74,15,147.83,3.65,UK,Hobbyist,Online,Stripe,Refunded
+ORD-0549,2024-06-09,Parachute Recovery Pack,Safety,9,32.45,25,219.04,8.41,Germany,University,Mobile App,Manual,Refunded
+ORD-0550,2024-05-01,Parachute Recovery Pack,Safety,10,171.27,5,1627.07,11.6,UK,University,Referral,Manual,Refunded
+ORD-0551,2024-04-26,Fuel Cell GX,Fuel Systems,6,83.29,10,449.77,8.4,Mexico,Company,Online,PayPal,Completed
+ORD-0552,2024-02-09,Thruster C-21,Engines,9,149.75,10,1212.98,12.55,Japan,Company,Online,PayPal,Completed
+ORD-0553,2024-06-05,Parachute Recovery Pack,Safety,5,183.54,25,688.27,2.31,Mexico,Company,Online,PayPal,Completed
+ORD-0554,2024-03-03,Telemetry Kit Alpha,Electronics,10,96.64,15,821.44,1.26,Brazil,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0555,2024-05-30,Flight Computer ZB,Electronics,2,186.76,15,317.49,11.75,UK,University,Referral,Stripe,Completed
+ORD-0556,2024-03-12,Telemetry Kit Alpha,Electronics,2,141.33,5,268.53,1.22,Mexico,University,Mobile App,PayPal,Completed
+ORD-0557,2024-02-06,Rocket Motor XZ-100,Engines,5,181.13,0,905.65,1.17,USA,Hobbyist,Referral,PayPal,Pending
+ORD-0558,2024-03-03,Telemetry Kit Alpha,Electronics,6,114.32,25,514.44,10.51,Brazil,Hobbyist,Referral,Stripe,Completed
+ORD-0559,2024-05-01,Parachute Recovery Pack,Safety,3,150.75,15,384.41,14.46,USA,Company,Online,Manual,Pending
+ORD-0560,2024-05-25,Rocket Motor XZ-100,Engines,1,45.05,20,36.04,8.49,USA,Company,Mobile App,PayPal,Completed
+ORD-0561,2024-05-03,Telemetry Kit Alpha,Electronics,5,95.0,5,451.25,6.97,Mexico,University,Referral,Manual,Pending
+ORD-0562,2024-02-07,Thruster C-21,Engines,6,168.8,10,911.52,11.18,Japan,University,Referral,Stripe,Refunded
+ORD-0563,2024-03-03,Telemetry Kit Alpha,Electronics,3,107.6,0,322.8,6.13,Japan,Company,Mobile App,Manual,Refunded
+ORD-0564,2024-06-24,Flight Computer ZB,Electronics,6,119.1,20,571.68,10.3,USA,Hobbyist,Mobile App,PayPal,Completed
+ORD-0565,2024-01-22,Fuel Cell GX,Fuel Systems,10,104.2,15,885.7,13.01,USA,Company,Referral,Stripe,Pending
+ORD-0566,2024-02-02,Telemetry Kit Alpha,Electronics,8,82.04,0,656.32,3.06,Canada,University,Online,Manual,Completed
+ORD-0567,2024-05-08,Launch Pad Mini,Hardware,2,186.49,20,298.38,7.63,Canada,University,Mobile App,Stripe,Completed
+ORD-0568,2024-04-04,Rocket Motor XZ-100,Engines,9,131.12,30,826.06,9.41,USA,University,Online,Manual,Completed
+ORD-0569,2024-01-28,Rocket Motor XZ-100,Engines,10,44.68,30,312.76,9.19,Germany,Hobbyist,Mobile App,Stripe,Completed
+ORD-0570,2024-01-09,Telemetry Kit Alpha,Electronics,6,77.36,10,417.74,8.07,UK,Company,Mobile App,Manual,Refunded
+ORD-0571,2024-03-21,Telemetry Kit Alpha,Electronics,10,86.1,0,861.0,3.94,UK,Hobbyist,Mobile App,Manual,Pending
+ORD-0572,2024-05-07,Ignition Module V2,Electronics,7,80.72,20,452.03,9.23,UK,Company,Online,PayPal,Refunded
+ORD-0573,2024-06-09,Parachute Recovery Pack,Safety,7,156.9,15,933.56,7.09,Brazil,University,Mobile App,Manual,Completed
+ORD-0574,2024-05-24,Rocket Motor XZ-100,Engines,3,70.17,5,199.98,7.75,Canada,Hobbyist,Referral,Manual,Refunded
+ORD-0575,2024-04-30,Launch Pad Mini,Hardware,9,41.34,5,353.46,3.09,Germany,Company,Mobile App,Manual,Refunded
+ORD-0576,2024-02-24,Fuel Cell GX,Fuel Systems,7,196.82,5,1308.85,2.81,Mexico,University,Referral,Stripe,Refunded
+ORD-0577,2024-04-12,Telemetry Kit Alpha,Electronics,1,192.58,15,163.69,0.92,Germany,University,Online,PayPal,Refunded
+ORD-0578,2024-06-24,Fuel Cell GX,Fuel Systems,5,153.68,0,768.4,9.01,USA,Company,Online,Stripe,Completed
+ORD-0579,2024-02-17,Ignition Module V2,Electronics,6,161.37,15,822.99,6.4,USA,University,Referral,PayPal,Completed
+ORD-0580,2024-01-12,Launch Pad Mini,Hardware,6,23.48,5,133.84,11.37,UK,Hobbyist,Mobile App,Stripe,Completed
+ORD-0581,2024-02-11,Rocket Motor XZ-100,Engines,10,93.31,10,839.79,10.71,USA,Company,Online,PayPal,Completed
+ORD-0582,2024-01-23,Fuel Cell GX,Fuel Systems,5,143.11,30,500.89,11.11,Japan,Company,Online,Manual,Completed
+ORD-0583,2024-06-11,Flight Computer ZB,Electronics,3,179.69,0,539.07,2.21,Mexico,Company,Mobile App,Manual,Refunded
+ORD-0584,2024-05-06,Ignition Module V2,Electronics,9,98.6,10,798.66,5.6,Brazil,University,Mobile App,PayPal,Completed
+ORD-0585,2024-05-01,Fuel Cell GX,Fuel Systems,2,41.69,20,66.7,8.7,Mexico,Company,Online,PayPal,Completed
+ORD-0586,2024-03-01,Telemetry Kit Alpha,Electronics,1,157.08,15,133.52,1.29,Mexico,Company,Online,Manual,Refunded
+ORD-0587,2024-04-03,Flight Computer ZB,Electronics,8,23.48,15,159.66,14.58,USA,Hobbyist,Online,Stripe,Pending
+ORD-0588,2024-02-17,Fuel Cell GX,Fuel Systems,7,130.71,25,686.23,9.83,Brazil,Hobbyist,Referral,Manual,Pending
+ORD-0589,2024-01-25,Thruster C-21,Engines,2,104.26,10,187.67,8.41,Germany,University,Online,Stripe,Refunded
+ORD-0590,2024-05-22,Parachute Recovery Pack,Safety,9,134.61,15,1029.77,5.65,Mexico,Company,Referral,PayPal,Completed
+ORD-0591,2024-01-24,Flight Computer ZB,Electronics,1,79.14,30,55.4,9.32,Canada,Company,Mobile App,PayPal,Completed
+ORD-0592,2024-06-06,Telemetry Kit Alpha,Electronics,3,163.71,0,491.13,1.92,UK,University,Mobile App,Stripe,Pending
+ORD-0593,2024-04-24,Flight Computer ZB,Electronics,9,137.85,25,930.49,3.22,UK,University,Online,Manual,Pending
+ORD-0594,2024-06-23,Telemetry Kit Alpha,Electronics,3,145.94,10,394.04,13.84,Germany,University,Online,Manual,Refunded
+ORD-0595,2024-05-29,Rocket Motor XZ-100,Engines,2,35.2,20,56.32,8.72,Germany,University,Online,PayPal,Pending
+ORD-0596,2024-06-02,Parachute Recovery Pack,Safety,3,129.11,5,367.96,4.29,Brazil,Company,Referral,Manual,Completed
+ORD-0597,2024-02-21,Ignition Module V2,Electronics,2,40.57,5,77.08,13.56,Canada,University,Referral,Stripe,Refunded
+ORD-0598,2024-04-29,Ignition Module V2,Electronics,9,196.04,30,1235.05,11.43,USA,University,Referral,PayPal,Refunded
+ORD-0599,2024-03-23,Launch Pad Mini,Hardware,5,162.73,10,732.28,6.83,Mexico,Company,Referral,PayPal,Refunded
+ORD-0600,2024-02-06,Ignition Module V2,Electronics,9,21.9,30,137.97,2.66,UK,Company,Mobile App,Stripe,Completed
+ORD-0601,2024-03-09,Flight Computer ZB,Electronics,1,127.58,10,114.82,14.69,Canada,University,Referral,Manual,Refunded
+ORD-0602,2024-03-15,Telemetry Kit Alpha,Electronics,7,137.11,15,815.8,7.28,Brazil,University,Online,Stripe,Completed
+ORD-0603,2024-04-27,Launch Pad Mini,Hardware,3,149.91,30,314.81,5.56,Germany,University,Mobile App,Stripe,Pending
+ORD-0604,2024-06-26,Parachute Recovery Pack,Safety,5,113.43,5,538.79,10.39,Germany,Company,Mobile App,PayPal,Pending
+ORD-0605,2024-04-09,Rocket Motor XZ-100,Engines,5,84.5,5,401.37,1.42,Mexico,University,Online,PayPal,Refunded
+ORD-0606,2024-04-29,Rocket Motor XZ-100,Engines,9,21.94,5,187.59,0.03,Mexico,Company,Online,PayPal,Refunded
+ORD-0607,2024-01-19,Launch Pad Mini,Hardware,2,56.37,20,90.19,13.19,USA,Company,Referral,Manual,Completed
+ORD-0608,2024-02-15,Thruster C-21,Engines,5,84.27,20,337.08,9.98,USA,Company,Referral,PayPal,Completed
+ORD-0609,2024-03-25,Parachute Recovery Pack,Safety,3,106.53,0,319.59,5.0,Canada,University,Mobile App,Stripe,Pending
+ORD-0610,2024-02-20,Thruster C-21,Engines,5,68.14,20,272.56,7.37,Brazil,University,Mobile App,Stripe,Refunded
+ORD-0611,2024-03-30,Rocket Motor XZ-100,Engines,10,42.03,30,294.21,6.69,Mexico,Company,Online,Manual,Completed
+ORD-0612,2024-06-17,Ignition Module V2,Electronics,1,29.76,10,26.78,13.98,Japan,University,Mobile App,PayPal,Pending
+ORD-0613,2024-01-03,Rocket Motor XZ-100,Engines,2,141.31,30,197.83,11.58,Mexico,University,Mobile App,PayPal,Pending
+ORD-0614,2024-02-24,Launch Pad Mini,Hardware,5,134.04,0,670.2,7.2,USA,University,Online,Stripe,Completed
+ORD-0615,2024-02-09,Ignition Module V2,Electronics,2,140.76,20,225.22,10.83,Germany,Company,Online,PayPal,Refunded
+ORD-0616,2024-06-04,Launch Pad Mini,Hardware,6,64.32,5,366.62,12.49,Mexico,Company,Referral,PayPal,Refunded
+ORD-0617,2024-05-12,Ignition Module V2,Electronics,2,182.31,5,346.39,3.09,Mexico,Company,Mobile App,PayPal,Completed
+ORD-0618,2024-01-22,Flight Computer ZB,Electronics,6,149.11,15,760.46,6.06,Mexico,Hobbyist,Referral,Stripe,Refunded
+ORD-0619,2024-06-07,Fuel Cell GX,Fuel Systems,8,103.82,5,789.03,11.53,Japan,Company,Online,Stripe,Completed
+ORD-0620,2024-01-15,Launch Pad Mini,Hardware,2,30.74,25,46.11,12.0,Brazil,Company,Online,PayPal,Pending
+ORD-0621,2024-04-10,Flight Computer ZB,Electronics,7,109.93,10,692.56,3.08,Japan,University,Mobile App,Stripe,Refunded
+ORD-0622,2024-04-14,Ignition Module V2,Electronics,1,44.29,0,44.29,8.32,Brazil,Company,Mobile App,Stripe,Completed
+ORD-0623,2024-02-01,Fuel Cell GX,Fuel Systems,7,70.85,0,495.95,14.86,UK,Company,Referral,PayPal,Pending
+ORD-0624,2024-02-07,Thruster C-21,Engines,9,30.05,20,216.36,13.93,Mexico,University,Mobile App,Manual,Refunded
+ORD-0625,2024-06-23,Ignition Module V2,Electronics,3,179.31,15,457.24,13.25,Japan,Company,Online,PayPal,Completed
+ORD-0626,2024-04-15,Ignition Module V2,Electronics,5,166.8,10,750.6,6.52,Germany,University,Mobile App,Stripe,Completed
+ORD-0627,2024-03-26,Telemetry Kit Alpha,Electronics,9,101.19,15,774.1,11.82,UK,Company,Referral,Manual,Pending
+ORD-0628,2024-03-10,Ignition Module V2,Electronics,4,185.0,15,629.0,1.47,Mexico,Hobbyist,Referral,Stripe,Refunded
+ORD-0629,2024-05-05,Parachute Recovery Pack,Safety,4,159.39,15,541.93,3.25,Brazil,Hobbyist,Referral,Stripe,Pending
+ORD-0630,2024-03-04,Thruster C-21,Engines,6,65.43,25,294.44,11.8,USA,Company,Online,Manual,Pending
+ORD-0631,2024-05-17,Thruster C-21,Engines,1,174.86,5,166.12,12.91,Canada,Company,Mobile App,PayPal,Completed
+ORD-0632,2024-01-14,Thruster C-21,Engines,4,165.39,0,661.56,1.69,Japan,University,Mobile App,Stripe,Pending
+ORD-0633,2024-04-02,Ignition Module V2,Electronics,1,24.7,10,22.23,4.7,Germany,Company,Online,Stripe,Pending
+ORD-0634,2024-04-01,Ignition Module V2,Electronics,5,179.83,5,854.19,6.46,Brazil,Company,Referral,Stripe,Refunded
+ORD-0635,2024-03-18,Rocket Motor XZ-100,Engines,5,174.84,15,743.07,7.02,Brazil,University,Online,Stripe,Pending
+ORD-0636,2024-04-28,Rocket Motor XZ-100,Engines,5,21.42,15,91.03,12.91,Germany,Company,Referral,PayPal,Pending
+ORD-0637,2024-03-15,Parachute Recovery Pack,Safety,2,68.27,10,122.89,6.95,Japan,University,Online,PayPal,Refunded
+ORD-0638,2024-02-15,Launch Pad Mini,Hardware,1,66.99,10,60.29,10.38,Japan,Hobbyist,Online,Stripe,Refunded
+ORD-0639,2024-03-20,Thruster C-21,Engines,5,176.86,25,663.23,4.42,UK,Hobbyist,Referral,Stripe,Refunded
+ORD-0640,2024-04-11,Thruster C-21,Engines,8,62.18,20,397.95,4.61,Canada,Company,Mobile App,Stripe,Refunded
+ORD-0641,2024-02-27,Flight Computer ZB,Electronics,6,46.53,0,279.18,13.54,UK,University,Referral,PayPal,Completed
+ORD-0642,2024-04-20,Launch Pad Mini,Hardware,7,21.7,25,113.92,11.65,Mexico,Company,Online,PayPal,Pending
+ORD-0643,2024-02-22,Rocket Motor XZ-100,Engines,3,159.84,5,455.54,2.88,Brazil,Hobbyist,Online,Manual,Refunded
+ORD-0644,2024-05-27,Thruster C-21,Engines,3,156.51,25,352.15,13.26,USA,Company,Online,Stripe,Completed
+ORD-0645,2024-06-23,Ignition Module V2,Electronics,9,62.86,20,452.59,9.1,UK,University,Online,Stripe,Refunded
+ORD-0646,2024-04-15,Fuel Cell GX,Fuel Systems,10,144.08,15,1224.68,4.17,Canada,Hobbyist,Referral,PayPal,Completed
+ORD-0647,2024-01-04,Fuel Cell GX,Fuel Systems,5,148.73,25,557.74,1.67,Brazil,Company,Referral,PayPal,Pending
+ORD-0648,2024-06-07,Flight Computer ZB,Electronics,8,114.28,10,822.82,4.41,Canada,Company,Mobile App,Stripe,Refunded
+ORD-0649,2024-03-30,Parachute Recovery Pack,Safety,10,46.44,20,371.52,5.15,Brazil,University,Online,Manual,Refunded
+ORD-0650,2024-02-28,Telemetry Kit Alpha,Electronics,9,163.15,30,1027.85,12.83,USA,Hobbyist,Online,PayPal,Pending
+ORD-0651,2024-03-30,Rocket Motor XZ-100,Engines,10,84.76,15,720.46,10.13,UK,Hobbyist,Online,Manual,Pending
+ORD-0652,2024-02-05,Launch Pad Mini,Hardware,7,86.16,0,603.12,12.05,Canada,Hobbyist,Online,PayPal,Refunded
+ORD-0653,2024-06-28,Parachute Recovery Pack,Safety,10,60.0,0,600.0,14.07,Germany,Company,Online,PayPal,Completed
+ORD-0654,2024-01-21,Thruster C-21,Engines,5,82.81,30,289.83,7.44,Germany,University,Mobile App,Stripe,Completed
+ORD-0655,2024-05-08,Flight Computer ZB,Electronics,5,190.6,15,810.05,10.8,Japan,Hobbyist,Referral,Stripe,Refunded
+ORD-0656,2024-05-25,Launch Pad Mini,Hardware,8,104.53,30,585.37,6.38,USA,University,Online,Manual,Pending
+ORD-0657,2024-03-05,Fuel Cell GX,Fuel Systems,7,194.57,25,1021.49,8.47,Germany,University,Mobile App,Stripe,Pending
+ORD-0658,2024-04-23,Parachute Recovery Pack,Safety,8,178.28,10,1283.62,10.53,Canada,University,Mobile App,Manual,Pending
+ORD-0659,2024-06-19,Ignition Module V2,Electronics,2,59.9,0,119.8,3.51,Japan,Hobbyist,Online,PayPal,Pending
+ORD-0660,2024-02-14,Fuel Cell GX,Fuel Systems,8,54.62,30,305.87,7.78,Canada,Hobbyist,Referral,PayPal,Completed
+ORD-0661,2024-03-09,Ignition Module V2,Electronics,5,48.07,30,168.25,5.87,Japan,Hobbyist,Referral,Stripe,Completed
+ORD-0662,2024-01-29,Telemetry Kit Alpha,Electronics,4,20.92,30,58.58,1.2,Germany,Hobbyist,Mobile App,Stripe,Pending
+ORD-0663,2024-04-09,Fuel Cell GX,Fuel Systems,10,136.71,30,956.97,13.36,Canada,Hobbyist,Mobile App,Manual,Refunded
+ORD-0664,2024-01-12,Flight Computer ZB,Electronics,4,97.62,5,370.96,11.21,Germany,University,Mobile App,PayPal,Refunded
+ORD-0665,2024-05-14,Telemetry Kit Alpha,Electronics,7,109.82,20,614.99,13.1,USA,University,Referral,Stripe,Completed
+ORD-0666,2024-03-04,Ignition Module V2,Electronics,6,105.83,30,444.49,4.24,UK,Hobbyist,Online,Manual,Pending
+ORD-0667,2024-01-30,Ignition Module V2,Electronics,7,84.78,0,593.46,8.13,Mexico,Company,Mobile App,Stripe,Pending
+ORD-0668,2024-01-30,Flight Computer ZB,Electronics,10,166.53,0,1665.3,13.99,USA,Hobbyist,Referral,PayPal,Refunded
+ORD-0669,2024-01-06,Parachute Recovery Pack,Safety,2,70.3,5,133.57,8.68,Mexico,Company,Referral,Manual,Completed
+ORD-0670,2024-05-13,Flight Computer ZB,Electronics,10,142.87,30,1000.09,0.15,Japan,University,Online,Stripe,Refunded
+ORD-0671,2024-01-17,Launch Pad Mini,Hardware,4,81.74,10,294.26,1.95,Germany,Company,Referral,PayPal,Completed
+ORD-0672,2024-06-14,Rocket Motor XZ-100,Engines,6,24.75,15,126.22,7.01,Japan,Company,Mobile App,PayPal,Completed
+ORD-0673,2024-04-29,Flight Computer ZB,Electronics,10,97.78,30,684.46,3.57,UK,University,Mobile App,Manual,Refunded
+ORD-0674,2024-02-22,Ignition Module V2,Electronics,1,172.78,30,120.95,8.12,Japan,Hobbyist,Online,Stripe,Refunded
+ORD-0675,2024-04-21,Rocket Motor XZ-100,Engines,6,54.84,0,329.04,11.1,UK,Company,Online,PayPal,Refunded
+ORD-0676,2024-06-25,Fuel Cell GX,Fuel Systems,2,171.12,30,239.57,0.55,Japan,Company,Mobile App,Manual,Pending
+ORD-0677,2024-01-09,Telemetry Kit Alpha,Electronics,6,92.42,10,499.07,11.6,Mexico,University,Mobile App,PayPal,Completed
+ORD-0678,2024-04-26,Parachute Recovery Pack,Safety,2,112.61,0,225.22,11.1,Brazil,University,Referral,Stripe,Completed
+ORD-0679,2024-04-04,Flight Computer ZB,Electronics,5,163.49,25,613.09,10.58,Brazil,University,Referral,PayPal,Pending
+ORD-0680,2024-02-27,Ignition Module V2,Electronics,7,156.37,30,766.21,3.22,UK,Company,Referral,Manual,Pending
+ORD-0681,2024-03-29,Rocket Motor XZ-100,Engines,8,120.73,10,869.26,13.44,Brazil,Hobbyist,Online,Stripe,Pending
+ORD-0682,2024-04-22,Ignition Module V2,Electronics,7,44.87,10,282.68,12.8,Germany,University,Mobile App,Stripe,Refunded
+ORD-0683,2024-05-25,Thruster C-21,Engines,3,145.99,10,394.17,5.54,Canada,Company,Mobile App,PayPal,Refunded
+ORD-0684,2024-02-07,Flight Computer ZB,Electronics,9,82.28,0,740.52,3.16,Mexico,Company,Referral,Stripe,Pending
+ORD-0685,2024-01-20,Flight Computer ZB,Electronics,10,69.91,30,489.37,13.2,Canada,Hobbyist,Online,Stripe,Completed
+ORD-0686,2024-03-22,Fuel Cell GX,Fuel Systems,7,61.43,20,344.01,10.59,Germany,Company,Online,Manual,Completed
+ORD-0687,2024-05-31,Fuel Cell GX,Fuel Systems,5,146.48,10,659.16,4.1,Germany,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0688,2024-06-05,Telemetry Kit Alpha,Electronics,8,99.0,20,633.6,6.53,Canada,Company,Online,Stripe,Pending
+ORD-0689,2024-05-22,Ignition Module V2,Electronics,10,42.87,10,385.83,8.9,UK,Hobbyist,Online,Manual,Completed
+ORD-0690,2024-02-15,Telemetry Kit Alpha,Electronics,10,46.09,0,460.9,2.15,UK,University,Referral,PayPal,Refunded
+ORD-0691,2024-05-08,Rocket Motor XZ-100,Engines,6,199.33,0,1195.98,9.19,Brazil,University,Referral,Manual,Pending
+ORD-0692,2024-02-28,Ignition Module V2,Electronics,7,75.43,5,501.61,5.75,Japan,Company,Online,Stripe,Completed
+ORD-0693,2024-03-25,Rocket Motor XZ-100,Engines,9,97.2,30,612.36,14.15,USA,Company,Mobile App,PayPal,Completed
+ORD-0694,2024-01-09,Launch Pad Mini,Hardware,4,110.06,30,308.17,14.96,Brazil,University,Mobile App,Stripe,Refunded
+ORD-0695,2024-04-15,Parachute Recovery Pack,Safety,7,70.33,30,344.62,9.94,Brazil,Company,Online,Manual,Completed
+ORD-0696,2024-04-20,Rocket Motor XZ-100,Engines,9,127.95,5,1093.97,10.88,Canada,Company,Mobile App,PayPal,Completed
+ORD-0697,2024-05-13,Ignition Module V2,Electronics,7,37.07,0,259.49,13.75,USA,University,Online,Stripe,Refunded
+ORD-0698,2024-04-05,Ignition Module V2,Electronics,3,48.86,15,124.59,6.25,Brazil,Company,Referral,Manual,Pending
+ORD-0699,2024-04-07,Thruster C-21,Engines,7,20.26,5,134.73,12.7,Germany,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0700,2024-03-14,Parachute Recovery Pack,Safety,4,117.86,0,471.44,1.73,Japan,Company,Mobile App,Manual,Completed
+ORD-0701,2024-01-11,Parachute Recovery Pack,Safety,7,44.18,25,231.94,3.38,Japan,Company,Referral,PayPal,Completed
+ORD-0702,2024-01-04,Telemetry Kit Alpha,Electronics,5,152.04,15,646.17,8.08,USA,Hobbyist,Referral,PayPal,Pending
+ORD-0703,2024-02-26,Flight Computer ZB,Electronics,4,79.26,10,285.34,4.45,Canada,University,Referral,Stripe,Completed
+ORD-0704,2024-03-26,Launch Pad Mini,Hardware,8,193.94,20,1241.22,3.61,UK,Hobbyist,Mobile App,PayPal,Pending
+ORD-0705,2024-02-10,Flight Computer ZB,Electronics,4,168.98,20,540.74,12.75,Canada,Hobbyist,Mobile App,Manual,Pending
+ORD-0706,2024-03-10,Launch Pad Mini,Hardware,7,199.61,5,1327.41,11.04,Germany,Hobbyist,Referral,Manual,Completed
+ORD-0707,2024-02-08,Thruster C-21,Engines,5,31.0,10,139.5,8.22,Mexico,University,Referral,PayPal,Completed
+ORD-0708,2024-03-10,Rocket Motor XZ-100,Engines,9,142.19,0,1279.71,6.44,Canada,Company,Referral,Manual,Pending
+ORD-0709,2024-06-06,Fuel Cell GX,Fuel Systems,2,118.95,10,214.11,3.11,Brazil,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0710,2024-05-03,Parachute Recovery Pack,Safety,4,49.92,10,179.71,0.01,Germany,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0711,2024-03-28,Flight Computer ZB,Electronics,5,124.81,25,468.04,11.87,Japan,University,Online,Stripe,Completed
+ORD-0712,2024-01-04,Flight Computer ZB,Electronics,5,140.64,5,668.04,9.88,Canada,Hobbyist,Online,PayPal,Completed
+ORD-0713,2024-06-08,Flight Computer ZB,Electronics,10,161.77,15,1375.05,3.27,Germany,University,Referral,Stripe,Refunded
+ORD-0714,2024-02-19,Telemetry Kit Alpha,Electronics,8,145.61,0,1164.88,2.95,USA,Company,Online,Stripe,Refunded
+ORD-0715,2024-02-28,Ignition Module V2,Electronics,4,37.69,10,135.68,2.62,Germany,Company,Mobile App,Manual,Completed
+ORD-0716,2024-01-08,Telemetry Kit Alpha,Electronics,2,84.62,0,169.24,13.87,Canada,Company,Online,PayPal,Pending
+ORD-0717,2024-05-24,Fuel Cell GX,Fuel Systems,4,142.92,5,543.1,1.03,Brazil,Company,Online,Manual,Pending
+ORD-0718,2024-04-25,Flight Computer ZB,Electronics,10,67.36,20,538.88,10.78,Brazil,Company,Online,Manual,Completed
+ORD-0719,2024-02-19,Flight Computer ZB,Electronics,4,45.54,25,136.62,5.69,Japan,Company,Mobile App,PayPal,Completed
+ORD-0720,2024-02-06,Ignition Module V2,Electronics,4,185.38,25,556.14,12.1,Brazil,University,Online,Stripe,Refunded
+ORD-0721,2024-04-02,Launch Pad Mini,Hardware,7,176.53,25,926.78,1.76,Mexico,University,Online,PayPal,Completed
+ORD-0722,2024-05-23,Telemetry Kit Alpha,Electronics,7,198.38,0,1388.66,8.45,UK,Hobbyist,Referral,Manual,Pending
+ORD-0723,2024-01-08,Ignition Module V2,Electronics,5,96.29,30,337.02,6.0,Germany,Hobbyist,Online,PayPal,Completed
+ORD-0724,2024-06-04,Flight Computer ZB,Electronics,9,65.85,25,444.49,4.29,UK,Company,Referral,Stripe,Completed
+ORD-0725,2024-02-25,Ignition Module V2,Electronics,7,144.47,25,758.47,2.25,USA,Hobbyist,Online,Manual,Refunded
+ORD-0726,2024-04-24,Thruster C-21,Engines,1,41.81,30,29.27,5.3,Japan,University,Referral,Manual,Refunded
+ORD-0727,2024-04-26,Flight Computer ZB,Electronics,3,94.06,20,225.74,3.75,Brazil,Hobbyist,Mobile App,Stripe,Completed
+ORD-0728,2024-02-23,Fuel Cell GX,Fuel Systems,7,170.84,30,837.12,11.46,Mexico,University,Referral,PayPal,Completed
+ORD-0729,2024-01-09,Rocket Motor XZ-100,Engines,7,104.22,10,656.59,7.48,Canada,Company,Mobile App,Manual,Pending
+ORD-0730,2024-02-26,Rocket Motor XZ-100,Engines,7,178.84,20,1001.5,5.89,Japan,University,Mobile App,Stripe,Completed
+ORD-0731,2024-01-16,Flight Computer ZB,Electronics,3,141.71,25,318.85,11.75,UK,Hobbyist,Referral,PayPal,Completed
+ORD-0732,2024-01-27,Thruster C-21,Engines,2,185.52,20,296.83,3.94,UK,Company,Online,PayPal,Pending
+ORD-0733,2024-06-01,Telemetry Kit Alpha,Electronics,4,21.02,25,63.06,13.56,Canada,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0734,2024-06-08,Rocket Motor XZ-100,Engines,10,156.17,25,1171.28,0.81,Japan,Company,Referral,Stripe,Pending
+ORD-0735,2024-03-24,Fuel Cell GX,Fuel Systems,6,142.95,0,857.7,7.1,USA,University,Referral,Manual,Refunded
+ORD-0736,2024-06-13,Telemetry Kit Alpha,Electronics,4,177.22,0,708.88,8.58,Canada,Hobbyist,Mobile App,Manual,Refunded
+ORD-0737,2024-05-03,Parachute Recovery Pack,Safety,8,100.12,20,640.77,11.09,Japan,Hobbyist,Referral,Stripe,Completed
+ORD-0738,2024-03-16,Thruster C-21,Engines,2,143.97,10,259.15,13.89,Canada,Hobbyist,Referral,Manual,Refunded
+ORD-0739,2024-06-08,Ignition Module V2,Electronics,1,150.2,0,150.2,7.89,Brazil,Hobbyist,Mobile App,Stripe,Pending
+ORD-0740,2024-04-04,Thruster C-21,Engines,3,191.48,0,574.44,12.5,USA,Company,Referral,Manual,Refunded
+ORD-0741,2024-06-29,Flight Computer ZB,Electronics,9,132.86,5,1135.95,3.77,UK,University,Online,PayPal,Pending
+ORD-0742,2024-01-01,Parachute Recovery Pack,Safety,2,102.16,5,194.1,2.29,Mexico,Company,Mobile App,Stripe,Pending
+ORD-0743,2024-01-12,Rocket Motor XZ-100,Engines,5,59.66,0,298.3,6.44,Germany,Hobbyist,Online,Stripe,Pending
+ORD-0744,2024-02-25,Launch Pad Mini,Hardware,2,59.77,30,83.68,3.42,Japan,Hobbyist,Referral,Manual,Refunded
+ORD-0745,2024-06-12,Launch Pad Mini,Hardware,8,52.0,10,374.4,11.9,UK,Company,Online,PayPal,Completed
+ORD-0746,2024-04-03,Launch Pad Mini,Hardware,9,109.18,30,687.83,4.23,Canada,University,Mobile App,PayPal,Pending
+ORD-0747,2024-02-28,Fuel Cell GX,Fuel Systems,10,151.02,15,1283.67,1.7,Japan,Hobbyist,Online,Manual,Pending
+ORD-0748,2024-01-22,Rocket Motor XZ-100,Engines,1,134.28,20,107.42,6.22,Canada,University,Online,Stripe,Refunded
+ORD-0749,2024-03-19,Launch Pad Mini,Hardware,10,103.24,5,980.78,0.78,Germany,Company,Mobile App,Stripe,Refunded
+ORD-0750,2024-05-04,Rocket Motor XZ-100,Engines,5,67.13,5,318.87,1.86,Canada,Hobbyist,Referral,PayPal,Pending
+ORD-0751,2024-04-07,Parachute Recovery Pack,Safety,7,42.58,30,208.64,9.02,Brazil,Company,Referral,Manual,Pending
+ORD-0752,2024-05-14,Ignition Module V2,Electronics,10,164.98,10,1484.82,8.18,Brazil,Company,Mobile App,Manual,Pending
+ORD-0753,2024-03-05,Telemetry Kit Alpha,Electronics,6,180.6,10,975.24,4.14,Mexico,Company,Referral,PayPal,Pending
+ORD-0754,2024-04-17,Ignition Module V2,Electronics,7,104.05,25,546.26,7.62,USA,Company,Referral,Manual,Pending
+ORD-0755,2024-06-18,Fuel Cell GX,Fuel Systems,10,156.37,30,1094.59,3.02,Mexico,Hobbyist,Mobile App,PayPal,Completed
+ORD-0756,2024-06-18,Rocket Motor XZ-100,Engines,10,50.9,5,483.55,0.04,Brazil,Hobbyist,Mobile App,PayPal,Completed
+ORD-0757,2024-03-22,Flight Computer ZB,Electronics,9,139.55,15,1067.56,7.96,Brazil,Company,Referral,PayPal,Completed
+ORD-0758,2024-04-09,Parachute Recovery Pack,Safety,2,101.11,30,141.55,0.89,UK,Hobbyist,Online,Stripe,Completed
+ORD-0759,2024-01-01,Launch Pad Mini,Hardware,3,98.34,25,221.26,9.8,Japan,Company,Online,Stripe,Refunded
+ORD-0760,2024-05-29,Flight Computer ZB,Electronics,1,173.82,0,173.82,4.06,UK,Hobbyist,Online,PayPal,Pending
+ORD-0761,2024-03-07,Rocket Motor XZ-100,Engines,8,171.28,5,1301.73,9.76,USA,Hobbyist,Mobile App,Stripe,Pending
+ORD-0762,2024-01-30,Rocket Motor XZ-100,Engines,6,171.01,10,923.45,4.76,Brazil,Company,Referral,Stripe,Refunded
+ORD-0763,2024-07-01,Thruster C-21,Engines,3,38.67,15,98.61,4.43,Germany,University,Online,Manual,Pending
+ORD-0764,2024-01-07,Telemetry Kit Alpha,Electronics,1,163.47,15,138.95,7.6,USA,Hobbyist,Online,Stripe,Pending
+ORD-0765,2024-01-30,Launch Pad Mini,Hardware,4,86.55,25,259.65,12.28,Germany,Hobbyist,Online,Stripe,Refunded
+ORD-0766,2024-03-06,Telemetry Kit Alpha,Electronics,10,67.6,15,574.6,4.48,USA,University,Online,Manual,Pending
+ORD-0767,2024-05-10,Fuel Cell GX,Fuel Systems,3,45.06,20,108.14,11.67,Canada,Company,Referral,Stripe,Completed
+ORD-0768,2024-04-19,Parachute Recovery Pack,Safety,6,153.46,15,782.65,14.16,Germany,Company,Referral,PayPal,Completed
+ORD-0769,2024-02-21,Parachute Recovery Pack,Safety,4,81.97,15,278.7,4.82,Japan,University,Mobile App,Manual,Completed
+ORD-0770,2024-05-17,Rocket Motor XZ-100,Engines,2,102.34,20,163.74,0.48,Japan,Hobbyist,Online,Stripe,Pending
+ORD-0771,2024-04-29,Flight Computer ZB,Electronics,8,40.24,20,257.54,9.44,Mexico,Hobbyist,Online,Manual,Completed
+ORD-0772,2024-05-17,Telemetry Kit Alpha,Electronics,5,168.01,25,630.04,7.58,Brazil,Company,Referral,PayPal,Pending
+ORD-0773,2024-02-22,Fuel Cell GX,Fuel Systems,2,103.69,0,207.38,5.67,Brazil,Hobbyist,Online,Stripe,Refunded
+ORD-0774,2024-02-05,Fuel Cell GX,Fuel Systems,2,167.06,15,284.0,2.82,Japan,University,Online,Stripe,Completed
+ORD-0775,2024-04-28,Flight Computer ZB,Electronics,1,133.33,30,93.33,3.79,Mexico,Hobbyist,Referral,Manual,Completed
+ORD-0776,2024-01-12,Rocket Motor XZ-100,Engines,3,46.92,5,133.72,0.1,Canada,Company,Mobile App,Manual,Pending
+ORD-0777,2024-01-12,Fuel Cell GX,Fuel Systems,1,105.44,20,84.35,0.81,Brazil,University,Mobile App,PayPal,Pending
+ORD-0778,2024-05-31,Ignition Module V2,Electronics,9,136.89,15,1047.21,8.72,Japan,Hobbyist,Online,Stripe,Refunded
+ORD-0779,2024-03-19,Rocket Motor XZ-100,Engines,6,190.74,0,1144.44,1.45,Canada,Hobbyist,Referral,PayPal,Pending
+ORD-0780,2024-02-15,Telemetry Kit Alpha,Electronics,6,134.65,0,807.9,14.98,Germany,Company,Mobile App,Stripe,Completed
+ORD-0781,2024-06-28,Launch Pad Mini,Hardware,1,99.68,25,74.76,2.13,UK,Company,Referral,Manual,Refunded
+ORD-0782,2024-04-07,Thruster C-21,Engines,7,75.49,5,502.01,6.11,USA,Company,Online,Manual,Completed
+ORD-0783,2024-04-21,Parachute Recovery Pack,Safety,4,112.99,25,338.97,2.64,Canada,University,Online,Stripe,Completed
+ORD-0784,2024-03-09,Rocket Motor XZ-100,Engines,10,55.15,25,413.62,6.95,Canada,Hobbyist,Referral,PayPal,Refunded
+ORD-0785,2024-02-08,Ignition Module V2,Electronics,10,166.06,5,1577.57,3.83,Japan,Hobbyist,Referral,Stripe,Pending
+ORD-0786,2024-03-12,Ignition Module V2,Electronics,7,102.51,15,609.93,1.53,UK,University,Online,Manual,Pending
+ORD-0787,2024-04-12,Ignition Module V2,Electronics,10,33.95,10,305.55,5.87,Japan,University,Mobile App,Manual,Refunded
+ORD-0788,2024-05-13,Flight Computer ZB,Electronics,5,168.54,5,800.56,5.66,Canada,Hobbyist,Online,PayPal,Completed
+ORD-0789,2024-02-28,Fuel Cell GX,Fuel Systems,2,35.26,25,52.89,13.24,Brazil,Company,Referral,PayPal,Refunded
+ORD-0790,2024-06-29,Rocket Motor XZ-100,Engines,3,92.03,20,220.87,14.13,Japan,University,Referral,PayPal,Pending
+ORD-0791,2024-05-31,Telemetry Kit Alpha,Electronics,9,53.7,15,410.81,6.98,Japan,Company,Online,PayPal,Refunded
+ORD-0792,2024-06-26,Launch Pad Mini,Hardware,3,114.81,10,309.99,14.16,USA,University,Mobile App,PayPal,Completed
+ORD-0793,2024-05-02,Fuel Cell GX,Fuel Systems,1,102.4,0,102.4,3.59,Canada,Company,Online,Manual,Refunded
+ORD-0794,2024-01-22,Parachute Recovery Pack,Safety,9,152.73,15,1168.38,9.7,Brazil,University,Online,PayPal,Refunded
+ORD-0795,2024-05-20,Launch Pad Mini,Hardware,8,94.1,10,677.52,5.16,Germany,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0796,2024-01-19,Ignition Module V2,Electronics,10,86.09,15,731.77,1.72,Germany,Company,Referral,PayPal,Completed
+ORD-0797,2024-03-20,Thruster C-21,Engines,1,47.83,0,47.83,5.67,USA,Hobbyist,Mobile App,Stripe,Completed
+ORD-0798,2024-05-21,Telemetry Kit Alpha,Electronics,10,88.01,10,792.09,2.57,Mexico,University,Online,PayPal,Refunded
+ORD-0799,2024-01-03,Launch Pad Mini,Hardware,10,79.21,25,594.08,7.1,Mexico,Hobbyist,Referral,PayPal,Completed
+ORD-0800,2024-01-25,Thruster C-21,Engines,4,118.56,5,450.53,6.87,USA,Hobbyist,Mobile App,PayPal,Pending
+ORD-0801,2024-02-22,Parachute Recovery Pack,Safety,2,33.51,0,67.02,12.79,Mexico,Hobbyist,Mobile App,Manual,Pending
+ORD-0802,2024-04-17,Launch Pad Mini,Hardware,9,26.46,15,202.42,12.96,Mexico,Company,Mobile App,Manual,Completed
+ORD-0803,2024-01-07,Rocket Motor XZ-100,Engines,1,162.77,20,130.22,9.66,USA,Hobbyist,Online,Stripe,Pending
+ORD-0804,2024-06-30,Flight Computer ZB,Electronics,9,156.17,20,1124.42,6.92,Japan,Hobbyist,Online,Stripe,Completed
+ORD-0805,2024-02-23,Telemetry Kit Alpha,Electronics,4,36.63,5,139.19,0.27,Mexico,Hobbyist,Online,PayPal,Completed
+ORD-0806,2024-06-03,Telemetry Kit Alpha,Electronics,2,121.8,20,194.88,6.97,Canada,Hobbyist,Online,Manual,Completed
+ORD-0807,2024-01-13,Fuel Cell GX,Fuel Systems,8,59.28,30,331.97,3.63,Germany,University,Online,Stripe,Refunded
+ORD-0808,2024-04-01,Fuel Cell GX,Fuel Systems,9,187.13,10,1515.75,6.12,USA,Company,Online,PayPal,Refunded
+ORD-0809,2024-03-03,Thruster C-21,Engines,6,24.67,30,103.61,6.87,Germany,Hobbyist,Mobile App,Stripe,Pending
+ORD-0810,2024-03-20,Thruster C-21,Engines,9,29.99,20,215.93,1.69,Germany,University,Referral,Manual,Pending
+ORD-0811,2024-02-22,Rocket Motor XZ-100,Engines,10,66.89,15,568.56,13.73,Canada,Company,Mobile App,Stripe,Pending
+ORD-0812,2024-06-01,Parachute Recovery Pack,Safety,1,104.25,0,104.25,1.42,Canada,Company,Online,Stripe,Refunded
+ORD-0813,2024-01-24,Telemetry Kit Alpha,Electronics,10,103.67,15,881.2,7.87,USA,Hobbyist,Mobile App,Manual,Refunded
+ORD-0814,2024-05-09,Flight Computer ZB,Electronics,4,47.21,25,141.63,12.22,Mexico,Hobbyist,Mobile App,Manual,Completed
+ORD-0815,2024-01-06,Parachute Recovery Pack,Safety,10,59.78,30,418.46,13.83,Canada,University,Referral,PayPal,Refunded
+ORD-0816,2024-04-28,Telemetry Kit Alpha,Electronics,9,191.89,0,1727.01,0.11,USA,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0817,2024-04-11,Parachute Recovery Pack,Safety,10,114.6,25,859.5,14.72,Mexico,University,Referral,Manual,Completed
+ORD-0818,2024-03-01,Parachute Recovery Pack,Safety,8,91.38,5,694.49,4.11,USA,Hobbyist,Mobile App,Manual,Refunded
+ORD-0819,2024-04-21,Rocket Motor XZ-100,Engines,1,148.0,25,111.0,10.14,Japan,Company,Mobile App,Manual,Completed
+ORD-0820,2024-06-13,Flight Computer ZB,Electronics,10,143.6,10,1292.4,6.91,Canada,Hobbyist,Online,Stripe,Refunded
+ORD-0821,2024-05-30,Telemetry Kit Alpha,Electronics,3,49.81,0,149.43,9.07,Brazil,Hobbyist,Online,Stripe,Pending
+ORD-0822,2024-03-29,Thruster C-21,Engines,9,21.15,15,161.8,12.92,Germany,Company,Mobile App,Stripe,Refunded
+ORD-0823,2024-01-31,Fuel Cell GX,Fuel Systems,5,131.85,30,461.47,1.5,USA,Company,Mobile App,Manual,Refunded
+ORD-0824,2024-01-29,Parachute Recovery Pack,Safety,8,146.33,20,936.51,14.66,Brazil,Company,Referral,Manual,Pending
+ORD-0825,2024-02-13,Telemetry Kit Alpha,Electronics,1,157.27,15,133.68,2.15,Canada,Hobbyist,Online,Manual,Refunded
+ORD-0826,2024-04-05,Thruster C-21,Engines,7,144.54,20,809.42,14.3,Japan,University,Online,PayPal,Completed
+ORD-0827,2024-02-10,Ignition Module V2,Electronics,10,34.04,20,272.32,0.53,Japan,Company,Online,Manual,Refunded
+ORD-0828,2024-06-03,Fuel Cell GX,Fuel Systems,7,190.81,5,1268.89,9.03,Japan,Hobbyist,Mobile App,Manual,Pending
+ORD-0829,2024-06-19,Telemetry Kit Alpha,Electronics,7,143.69,10,905.25,11.71,Mexico,Company,Referral,Manual,Completed
+ORD-0830,2024-04-10,Parachute Recovery Pack,Safety,2,81.23,20,129.97,6.85,Germany,Hobbyist,Mobile App,Manual,Pending
+ORD-0831,2024-03-03,Fuel Cell GX,Fuel Systems,7,160.18,5,1065.2,7.57,Germany,University,Online,Stripe,Completed
+ORD-0832,2024-06-07,Fuel Cell GX,Fuel Systems,8,57.36,5,435.94,3.75,Japan,Company,Online,Manual,Completed
+ORD-0833,2024-03-10,Fuel Cell GX,Fuel Systems,2,40.55,5,77.04,5.54,Japan,Company,Online,Manual,Completed
+ORD-0834,2024-06-30,Telemetry Kit Alpha,Electronics,6,45.82,30,192.44,10.84,Japan,University,Referral,PayPal,Refunded
+ORD-0835,2024-06-17,Thruster C-21,Engines,2,121.16,15,205.97,13.43,Japan,University,Mobile App,Stripe,Pending
+ORD-0836,2024-05-05,Fuel Cell GX,Fuel Systems,1,31.78,25,23.84,1.52,UK,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0837,2024-06-30,Flight Computer ZB,Electronics,6,181.19,20,869.71,7.8,Brazil,Company,Mobile App,Manual,Refunded
+ORD-0838,2024-05-18,Flight Computer ZB,Electronics,7,92.86,15,552.52,9.0,UK,Company,Mobile App,Manual,Completed
+ORD-0839,2024-03-19,Parachute Recovery Pack,Safety,4,105.11,30,294.31,11.8,Japan,Hobbyist,Online,PayPal,Completed
+ORD-0840,2024-03-05,Thruster C-21,Engines,1,32.21,0,32.21,12.75,Brazil,Hobbyist,Mobile App,PayPal,Completed
+ORD-0841,2024-03-17,Thruster C-21,Engines,10,177.27,20,1418.16,5.22,Germany,Company,Mobile App,Manual,Pending
+ORD-0842,2024-02-16,Rocket Motor XZ-100,Engines,1,30.53,15,25.95,10.16,Germany,University,Online,PayPal,Pending
+ORD-0843,2024-02-05,Ignition Module V2,Electronics,1,92.47,20,73.98,13.8,Germany,Hobbyist,Mobile App,Manual,Pending
+ORD-0844,2024-01-13,Launch Pad Mini,Hardware,6,44.32,30,186.14,8.49,Canada,University,Online,Stripe,Pending
+ORD-0845,2024-03-24,Fuel Cell GX,Fuel Systems,5,58.07,30,203.25,12.74,Japan,University,Referral,PayPal,Refunded
+ORD-0846,2024-03-22,Telemetry Kit Alpha,Electronics,9,188.49,15,1441.95,9.55,Germany,Company,Online,PayPal,Completed
+ORD-0847,2024-03-29,Fuel Cell GX,Fuel Systems,6,147.27,5,839.44,12.62,Japan,Company,Mobile App,Stripe,Refunded
+ORD-0848,2024-05-12,Parachute Recovery Pack,Safety,10,133.4,15,1133.9,6.26,Brazil,Company,Online,PayPal,Pending
+ORD-0849,2024-03-19,Parachute Recovery Pack,Safety,10,161.97,10,1457.73,0.07,Germany,University,Online,Stripe,Completed
+ORD-0850,2024-04-24,Flight Computer ZB,Electronics,4,83.31,5,316.58,14.68,Canada,University,Mobile App,Manual,Completed
+ORD-0851,2024-03-24,Thruster C-21,Engines,4,128.64,5,488.83,13.02,Canada,Hobbyist,Mobile App,PayPal,Completed
+ORD-0852,2024-04-05,Launch Pad Mini,Hardware,1,158.48,0,158.48,3.9,Germany,Hobbyist,Referral,Manual,Completed
+ORD-0853,2024-02-26,Fuel Cell GX,Fuel Systems,7,198.57,20,1111.99,7.99,USA,University,Referral,Stripe,Refunded
+ORD-0854,2024-05-25,Launch Pad Mini,Hardware,8,88.2,10,635.04,3.1,Japan,University,Online,Manual,Completed
+ORD-0855,2024-03-27,Thruster C-21,Engines,6,143.54,20,688.99,14.54,Mexico,University,Mobile App,PayPal,Pending
+ORD-0856,2024-06-21,Thruster C-21,Engines,2,68.07,30,95.3,14.58,Canada,Company,Referral,Manual,Pending
+ORD-0857,2024-06-02,Parachute Recovery Pack,Safety,8,34.41,15,233.99,5.13,Germany,University,Mobile App,Manual,Refunded
+ORD-0858,2024-02-26,Parachute Recovery Pack,Safety,6,54.23,20,260.3,11.26,Mexico,Hobbyist,Online,Manual,Pending
+ORD-0859,2024-05-13,Thruster C-21,Engines,6,142.24,15,725.42,1.44,Canada,Company,Online,Stripe,Refunded
+ORD-0860,2024-05-30,Flight Computer ZB,Electronics,5,33.92,25,127.2,1.24,Brazil,University,Referral,PayPal,Completed
+ORD-0861,2024-05-10,Fuel Cell GX,Fuel Systems,4,145.08,20,464.26,3.5,Brazil,Hobbyist,Referral,Manual,Completed
+ORD-0862,2024-02-12,Rocket Motor XZ-100,Engines,7,195.93,20,1097.21,5.64,Brazil,University,Mobile App,Stripe,Completed
+ORD-0863,2024-06-01,Fuel Cell GX,Fuel Systems,8,92.66,30,518.9,4.63,Japan,University,Referral,Manual,Completed
+ORD-0864,2024-05-19,Flight Computer ZB,Electronics,1,153.1,20,122.48,13.31,Mexico,University,Referral,Stripe,Refunded
+ORD-0865,2024-02-28,Flight Computer ZB,Electronics,3,79.59,0,238.77,3.45,Canada,Company,Referral,Manual,Refunded
+ORD-0866,2024-03-23,Parachute Recovery Pack,Safety,6,151.79,25,683.06,10.73,Brazil,University,Online,PayPal,Completed
+ORD-0867,2024-06-07,Ignition Module V2,Electronics,7,171.47,30,840.2,7.01,Germany,University,Online,Stripe,Pending
+ORD-0868,2024-04-21,Telemetry Kit Alpha,Electronics,3,38.08,0,114.24,14.81,Germany,Hobbyist,Mobile App,Manual,Refunded
+ORD-0869,2024-06-03,Flight Computer ZB,Electronics,7,68.17,0,477.19,11.54,UK,Company,Online,Manual,Completed
+ORD-0870,2024-05-27,Launch Pad Mini,Hardware,5,134.42,10,604.89,11.23,USA,University,Mobile App,PayPal,Refunded
+ORD-0871,2024-05-10,Fuel Cell GX,Fuel Systems,4,55.42,15,188.43,4.77,UK,University,Mobile App,PayPal,Pending
+ORD-0872,2024-04-07,Fuel Cell GX,Fuel Systems,7,191.96,0,1343.72,12.36,Brazil,Company,Online,Manual,Refunded
+ORD-0873,2024-03-31,Telemetry Kit Alpha,Electronics,10,82.32,30,576.24,8.38,UK,University,Online,Manual,Completed
+ORD-0874,2024-06-30,Telemetry Kit Alpha,Electronics,9,103.22,5,882.53,6.49,UK,Company,Mobile App,PayPal,Pending
+ORD-0875,2024-05-03,Rocket Motor XZ-100,Engines,4,151.38,20,484.42,2.0,USA,University,Mobile App,Stripe,Refunded
+ORD-0876,2024-06-13,Parachute Recovery Pack,Safety,7,174.53,30,855.2,5.8,Mexico,University,Online,Manual,Refunded
+ORD-0877,2024-04-23,Fuel Cell GX,Fuel Systems,4,190.82,20,610.62,3.43,Canada,Company,Mobile App,Stripe,Pending
+ORD-0878,2024-02-05,Thruster C-21,Engines,6,146.59,20,703.63,1.01,Mexico,University,Mobile App,Manual,Pending
+ORD-0879,2024-04-14,Ignition Module V2,Electronics,8,175.95,5,1337.22,2.69,USA,University,Referral,PayPal,Refunded
+ORD-0880,2024-01-21,Rocket Motor XZ-100,Engines,8,86.51,10,622.87,5.38,UK,Company,Referral,Stripe,Pending
+ORD-0881,2024-02-21,Ignition Module V2,Electronics,6,64.66,5,368.56,14.59,Japan,University,Mobile App,PayPal,Completed
+ORD-0882,2024-05-26,Flight Computer ZB,Electronics,7,186.38,0,1304.66,10.61,USA,University,Referral,Stripe,Completed
+ORD-0883,2024-03-27,Parachute Recovery Pack,Safety,10,125.07,5,1188.16,0.69,USA,Company,Referral,Stripe,Refunded
+ORD-0884,2024-01-24,Fuel Cell GX,Fuel Systems,1,150.9,0,150.9,1.36,Germany,Hobbyist,Mobile App,PayPal,Completed
+ORD-0885,2024-06-30,Launch Pad Mini,Hardware,10,52.18,10,469.62,13.68,UK,University,Online,Stripe,Pending
+ORD-0886,2024-05-20,Telemetry Kit Alpha,Electronics,9,189.28,5,1618.34,9.79,UK,Hobbyist,Referral,Stripe,Completed
+ORD-0887,2024-04-19,Rocket Motor XZ-100,Engines,6,111.85,5,637.54,13.0,Mexico,Hobbyist,Mobile App,Stripe,Refunded
+ORD-0888,2024-05-21,Thruster C-21,Engines,9,155.96,15,1193.09,8.42,Canada,University,Mobile App,PayPal,Completed
+ORD-0889,2024-06-15,Launch Pad Mini,Hardware,7,155.52,20,870.91,3.67,Japan,Company,Mobile App,Manual,Completed
+ORD-0890,2024-05-18,Thruster C-21,Engines,6,183.55,15,936.11,5.19,Mexico,Company,Online,PayPal,Pending
+ORD-0891,2024-02-12,Rocket Motor XZ-100,Engines,4,96.18,5,365.48,2.45,Germany,University,Online,Stripe,Completed
+ORD-0892,2024-02-03,Fuel Cell GX,Fuel Systems,1,114.16,10,102.74,4.82,UK,University,Referral,Manual,Pending
+ORD-0893,2024-06-06,Rocket Motor XZ-100,Engines,9,42.6,10,345.06,8.56,Germany,University,Referral,PayPal,Completed
+ORD-0894,2024-01-03,Thruster C-21,Engines,6,40.93,25,184.19,1.7,Japan,Hobbyist,Referral,PayPal,Pending
+ORD-0895,2024-04-23,Launch Pad Mini,Hardware,5,105.83,15,449.78,0.63,USA,Hobbyist,Mobile App,Stripe,Completed
+ORD-0896,2024-02-18,Parachute Recovery Pack,Safety,8,105.65,20,676.16,3.56,Japan,University,Referral,Manual,Refunded
+ORD-0897,2024-03-11,Telemetry Kit Alpha,Electronics,8,175.15,25,1050.9,8.82,Canada,Company,Referral,Stripe,Completed
+ORD-0898,2024-03-10,Ignition Module V2,Electronics,6,197.89,20,949.87,14.69,Canada,Company,Mobile App,Manual,Pending
+ORD-0899,2024-04-12,Fuel Cell GX,Fuel Systems,9,99.96,15,764.69,2.16,Germany,Company,Online,PayPal,Pending
+ORD-0900,2024-04-02,Parachute Recovery Pack,Safety,7,25.71,30,125.98,11.35,Canada,Company,Referral,Stripe,Pending
+ORD-0901,2024-06-17,Telemetry Kit Alpha,Electronics,2,98.19,5,186.56,10.98,Germany,Company,Online,Manual,Refunded
+ORD-0902,2024-02-22,Ignition Module V2,Electronics,3,100.0,25,225.0,9.73,Germany,Company,Referral,Stripe,Completed
+ORD-0903,2024-01-09,Parachute Recovery Pack,Safety,10,148.51,30,1039.57,3.05,Mexico,Company,Mobile App,Stripe,Pending
+ORD-0904,2024-03-17,Flight Computer ZB,Electronics,4,118.45,5,450.11,6.33,Mexico,Company,Referral,PayPal,Refunded
+ORD-0905,2024-01-31,Flight Computer ZB,Electronics,1,89.96,0,89.96,1.38,UK,Hobbyist,Referral,Stripe,Refunded
+ORD-0906,2024-03-13,Ignition Module V2,Electronics,3,37.72,0,113.16,14.22,UK,Hobbyist,Referral,PayPal,Completed
+ORD-0907,2024-02-28,Parachute Recovery Pack,Safety,2,75.5,20,120.8,0.55,Germany,Company,Referral,Stripe,Refunded
+ORD-0908,2024-04-08,Flight Computer ZB,Electronics,4,51.59,20,165.09,3.07,UK,University,Referral,Manual,Refunded
+ORD-0909,2024-06-15,Fuel Cell GX,Fuel Systems,9,71.72,0,645.48,12.6,UK,University,Mobile App,Manual,Refunded
+ORD-0910,2024-06-07,Rocket Motor XZ-100,Engines,3,180.35,5,514.0,1.94,Mexico,University,Referral,Stripe,Pending
+ORD-0911,2024-06-02,Thruster C-21,Engines,4,188.71,20,603.87,4.41,Japan,Hobbyist,Online,PayPal,Refunded
+ORD-0912,2024-06-29,Parachute Recovery Pack,Safety,7,77.83,5,517.57,5.54,Brazil,Company,Online,Stripe,Completed
+ORD-0913,2024-03-13,Parachute Recovery Pack,Safety,4,129.25,20,413.6,12.96,UK,University,Referral,PayPal,Refunded
+ORD-0914,2024-07-01,Thruster C-21,Engines,7,96.7,25,507.68,0.1,Canada,Company,Mobile App,Manual,Refunded
+ORD-0915,2024-02-02,Flight Computer ZB,Electronics,5,175.11,0,875.55,11.18,Japan,University,Online,Stripe,Refunded
+ORD-0916,2024-06-17,Flight Computer ZB,Electronics,1,107.11,10,96.4,12.36,Japan,University,Referral,Manual,Pending
+ORD-0917,2024-06-29,Thruster C-21,Engines,2,145.28,30,203.39,0.79,Mexico,Hobbyist,Referral,PayPal,Completed
+ORD-0918,2024-02-05,Fuel Cell GX,Fuel Systems,5,186.5,30,652.75,11.72,Japan,Company,Online,Stripe,Pending
+ORD-0919,2024-04-22,Launch Pad Mini,Hardware,3,138.89,10,375.0,14.12,Canada,Hobbyist,Online,PayPal,Refunded
+ORD-0920,2024-02-01,Parachute Recovery Pack,Safety,6,129.43,30,543.61,14.59,Japan,Hobbyist,Mobile App,Manual,Completed
+ORD-0921,2024-04-30,Rocket Motor XZ-100,Engines,3,163.41,10,441.21,0.51,Germany,Hobbyist,Mobile App,PayPal,Completed
+ORD-0922,2024-06-14,Parachute Recovery Pack,Safety,8,115.85,0,926.8,2.52,Japan,University,Online,PayPal,Refunded
+ORD-0923,2024-03-02,Telemetry Kit Alpha,Electronics,8,157.72,5,1198.67,2.58,Brazil,University,Referral,PayPal,Refunded
+ORD-0924,2024-06-11,Parachute Recovery Pack,Safety,1,196.1,10,176.49,4.65,Germany,Hobbyist,Referral,Manual,Pending
+ORD-0925,2024-01-18,Flight Computer ZB,Electronics,5,189.73,25,711.49,14.0,Japan,University,Online,PayPal,Pending
+ORD-0926,2024-06-21,Thruster C-21,Engines,5,93.8,0,469.0,0.93,USA,Company,Online,Stripe,Refunded
+ORD-0927,2024-03-18,Flight Computer ZB,Electronics,3,43.28,5,123.35,5.3,Germany,Company,Online,Manual,Refunded
+ORD-0928,2024-01-26,Launch Pad Mini,Hardware,7,32.99,20,184.74,0.25,Canada,Hobbyist,Referral,Stripe,Refunded
+ORD-0929,2024-04-17,Rocket Motor XZ-100,Engines,2,140.08,15,238.14,7.63,USA,University,Referral,Manual,Pending
+ORD-0930,2024-01-31,Telemetry Kit Alpha,Electronics,4,181.75,5,690.65,12.33,Canada,Hobbyist,Referral,PayPal,Refunded
+ORD-0931,2024-03-25,Parachute Recovery Pack,Safety,4,123.84,10,445.82,12.47,Japan,University,Mobile App,Stripe,Pending
+ORD-0932,2024-01-28,Fuel Cell GX,Fuel Systems,8,121.83,25,730.98,7.23,Germany,University,Mobile App,Manual,Refunded
+ORD-0933,2024-06-01,Flight Computer ZB,Electronics,7,25.55,0,178.85,8.95,Germany,Hobbyist,Mobile App,Stripe,Completed
+ORD-0934,2024-01-26,Ignition Module V2,Electronics,1,84.58,15,71.89,12.15,USA,Company,Mobile App,Manual,Pending
+ORD-0935,2024-02-14,Launch Pad Mini,Hardware,9,111.7,25,753.98,12.43,Canada,University,Online,Manual,Refunded
+ORD-0936,2024-01-21,Parachute Recovery Pack,Safety,2,20.32,5,38.61,3.56,Mexico,Company,Mobile App,Manual,Completed
+ORD-0937,2024-01-18,Ignition Module V2,Electronics,3,27.79,10,75.03,10.61,UK,Hobbyist,Online,Stripe,Pending
+ORD-0938,2024-05-29,Thruster C-21,Engines,5,20.46,5,97.19,6.37,UK,University,Mobile App,Stripe,Pending
+ORD-0939,2024-04-09,Telemetry Kit Alpha,Electronics,1,198.26,20,158.61,5.78,Canada,University,Mobile App,PayPal,Completed
+ORD-0940,2024-03-10,Parachute Recovery Pack,Safety,3,104.93,15,267.57,8.32,Germany,University,Referral,Stripe,Pending
+ORD-0941,2024-03-10,Parachute Recovery Pack,Safety,4,44.62,15,151.71,12.43,USA,Hobbyist,Online,PayPal,Completed
+ORD-0942,2024-06-04,Launch Pad Mini,Hardware,8,116.77,0,934.16,8.31,Canada,Hobbyist,Online,Manual,Pending
+ORD-0943,2024-04-14,Ignition Module V2,Electronics,7,35.07,30,171.84,7.78,UK,Hobbyist,Online,Stripe,Pending
+ORD-0944,2024-03-22,Fuel Cell GX,Fuel Systems,7,195.53,15,1163.4,2.27,Germany,Hobbyist,Referral,PayPal,Pending
+ORD-0945,2024-06-26,Flight Computer ZB,Electronics,4,128.44,25,385.32,13.21,Mexico,Company,Mobile App,Stripe,Completed
+ORD-0946,2024-02-18,Launch Pad Mini,Hardware,7,52.67,5,350.26,9.81,Mexico,Company,Mobile App,Stripe,Pending
+ORD-0947,2024-02-06,Parachute Recovery Pack,Safety,1,142.68,25,107.01,0.15,Japan,Company,Mobile App,Stripe,Refunded
+ORD-0948,2024-04-13,Fuel Cell GX,Fuel Systems,4,39.01,5,148.24,10.49,Mexico,University,Referral,PayPal,Completed
+ORD-0949,2024-02-26,Flight Computer ZB,Electronics,5,158.38,20,633.52,14.81,Canada,Hobbyist,Online,Manual,Refunded
+ORD-0950,2024-05-06,Fuel Cell GX,Fuel Systems,6,20.41,10,110.21,0.31,UK,Company,Online,PayPal,Pending
+ORD-0951,2024-04-02,Launch Pad Mini,Hardware,1,79.3,25,59.47,0.88,Brazil,University,Referral,Stripe,Completed
+ORD-0952,2024-01-29,Telemetry Kit Alpha,Electronics,1,55.49,30,38.84,5.08,Canada,Company,Online,PayPal,Refunded
+ORD-0953,2024-03-05,Fuel Cell GX,Fuel Systems,4,83.18,20,266.18,1.11,Germany,University,Online,Stripe,Refunded
+ORD-0954,2024-03-15,Thruster C-21,Engines,10,128.88,5,1224.36,11.31,USA,Company,Referral,Stripe,Completed
+ORD-0955,2024-03-15,Fuel Cell GX,Fuel Systems,5,170.08,25,637.8,8.76,Mexico,Company,Referral,Manual,Completed
+ORD-0956,2024-05-24,Ignition Module V2,Electronics,7,88.82,25,466.3,6.79,Canada,Company,Mobile App,PayPal,Refunded
+ORD-0957,2024-05-21,Parachute Recovery Pack,Safety,7,189.57,20,1061.59,5.02,Brazil,Company,Referral,PayPal,Refunded
+ORD-0958,2024-05-01,Ignition Module V2,Electronics,4,25.6,25,76.8,3.64,Brazil,Company,Online,Manual,Pending
+ORD-0959,2024-02-09,Launch Pad Mini,Hardware,6,110.27,15,562.38,8.38,Mexico,University,Mobile App,Manual,Refunded
+ORD-0960,2024-05-14,Thruster C-21,Engines,1,125.69,0,125.69,14.92,Canada,Hobbyist,Mobile App,Stripe,Pending
+ORD-0961,2024-02-29,Ignition Module V2,Electronics,10,140.72,30,985.04,13.84,Brazil,Hobbyist,Online,PayPal,Completed
+ORD-0962,2024-03-20,Telemetry Kit Alpha,Electronics,6,41.0,0,246.0,14.77,UK,Hobbyist,Mobile App,PayPal,Completed
+ORD-0963,2024-06-22,Thruster C-21,Engines,8,108.66,15,738.89,10.89,Japan,Hobbyist,Referral,Stripe,Completed
+ORD-0964,2024-02-19,Fuel Cell GX,Fuel Systems,7,24.85,25,130.46,2.29,Germany,Company,Mobile App,Manual,Pending
+ORD-0965,2024-03-23,Ignition Module V2,Electronics,7,27.63,30,135.39,14.73,Mexico,Company,Online,Stripe,Refunded
+ORD-0966,2024-03-16,Rocket Motor XZ-100,Engines,2,195.26,25,292.89,0.1,Japan,Hobbyist,Mobile App,Stripe,Completed
+ORD-0967,2024-05-16,Thruster C-21,Engines,9,39.62,25,267.43,8.0,UK,Company,Mobile App,Stripe,Completed
+ORD-0968,2024-01-10,Launch Pad Mini,Hardware,7,48.4,0,338.8,7.66,Japan,Hobbyist,Online,Manual,Pending
+ORD-0969,2024-01-17,Launch Pad Mini,Hardware,8,89.45,0,715.6,8.5,UK,Hobbyist,Mobile App,PayPal,Completed
+ORD-0970,2024-01-05,Rocket Motor XZ-100,Engines,3,190.84,30,400.76,10.37,UK,University,Mobile App,Manual,Pending
+ORD-0971,2024-03-06,Rocket Motor XZ-100,Engines,7,46.37,10,292.13,3.07,USA,Hobbyist,Referral,Manual,Completed
+ORD-0972,2024-03-08,Rocket Motor XZ-100,Engines,10,126.24,20,1009.92,13.12,Brazil,Hobbyist,Mobile App,Stripe,Completed
+ORD-0973,2024-01-31,Fuel Cell GX,Fuel Systems,1,44.09,0,44.09,13.59,UK,University,Online,Manual,Refunded
+ORD-0974,2024-05-19,Flight Computer ZB,Electronics,3,101.24,30,212.6,2.58,UK,Company,Mobile App,Manual,Pending
+ORD-0975,2024-06-05,Flight Computer ZB,Electronics,1,151.34,20,121.07,9.68,Mexico,Hobbyist,Mobile App,PayPal,Pending
+ORD-0976,2024-05-25,Flight Computer ZB,Electronics,2,106.21,20,169.94,6.96,USA,Hobbyist,Mobile App,Manual,Pending
+ORD-0977,2024-05-19,Ignition Module V2,Electronics,5,197.69,20,790.76,2.18,Canada,Company,Referral,PayPal,Completed
+ORD-0978,2024-03-31,Rocket Motor XZ-100,Engines,8,70.0,10,504.0,9.94,UK,Company,Referral,PayPal,Pending
+ORD-0979,2024-04-24,Fuel Cell GX,Fuel Systems,5,129.24,0,646.2,9.45,Brazil,Hobbyist,Online,Stripe,Pending
+ORD-0980,2024-03-18,Launch Pad Mini,Hardware,6,138.51,0,831.06,13.22,Japan,Hobbyist,Mobile App,Stripe,Completed
+ORD-0981,2024-04-03,Flight Computer ZB,Electronics,2,154.84,0,309.68,6.65,UK,Hobbyist,Mobile App,PayPal,Pending
+ORD-0982,2024-06-09,Rocket Motor XZ-100,Engines,5,70.08,25,262.8,7.56,UK,University,Mobile App,PayPal,Pending
+ORD-0983,2024-06-12,Thruster C-21,Engines,4,147.99,10,532.76,0.38,Canada,Hobbyist,Online,PayPal,Pending
+ORD-0984,2024-03-30,Thruster C-21,Engines,10,99.23,10,893.07,10.81,Germany,University,Online,Stripe,Pending
+ORD-0985,2024-04-20,Telemetry Kit Alpha,Electronics,6,97.87,10,528.5,6.94,Brazil,Company,Referral,Manual,Completed
+ORD-0986,2024-03-18,Rocket Motor XZ-100,Engines,8,45.88,15,311.98,14.79,Canada,Company,Referral,Manual,Refunded
+ORD-0987,2024-04-20,Thruster C-21,Engines,6,138.11,20,662.93,8.12,Japan,Company,Mobile App,Stripe,Pending
+ORD-0988,2024-01-01,Parachute Recovery Pack,Safety,1,119.53,30,83.67,10.19,Japan,Company,Mobile App,PayPal,Refunded
+ORD-0989,2024-06-24,Parachute Recovery Pack,Safety,4,91.91,0,367.64,2.2,Brazil,Hobbyist,Referral,PayPal,Pending
+ORD-0990,2024-05-04,Telemetry Kit Alpha,Electronics,8,143.02,20,915.33,9.58,Mexico,Hobbyist,Referral,PayPal,Refunded
+ORD-0991,2024-02-11,Ignition Module V2,Electronics,10,43.74,5,415.53,5.57,Mexico,Hobbyist,Referral,Stripe,Refunded
+ORD-0992,2024-03-06,Fuel Cell GX,Fuel Systems,3,170.86,10,461.32,8.85,Canada,Company,Mobile App,Stripe,Pending
+ORD-0993,2024-03-21,Flight Computer ZB,Electronics,6,23.54,25,105.93,10.01,Brazil,University,Mobile App,Stripe,Completed
+ORD-0994,2024-05-07,Rocket Motor XZ-100,Engines,1,197.87,15,168.19,0.68,USA,Hobbyist,Mobile App,PayPal,Refunded
+ORD-0995,2024-01-04,Flight Computer ZB,Electronics,3,118.69,30,249.25,9.33,Japan,University,Online,Stripe,Completed
+ORD-0996,2024-05-14,Rocket Motor XZ-100,Engines,6,114.47,30,480.77,14.62,USA,Company,Online,Manual,Pending
+ORD-0997,2024-06-05,Parachute Recovery Pack,Safety,10,70.68,15,600.78,9.52,USA,Hobbyist,Online,Manual,Pending
+ORD-0998,2024-05-26,Parachute Recovery Pack,Safety,4,55.2,20,176.64,0.26,Japan,University,Referral,PayPal,Completed
+ORD-0999,2024-04-30,Flight Computer ZB,Electronics,2,109.42,10,196.96,14.03,UK,Hobbyist,Mobile App,Manual,Pending
+ORD-1000,2024-03-22,Launch Pad Mini,Hardware,8,148.54,20,950.66,6.42,Japan,Hobbyist,Mobile App,Stripe,Pending

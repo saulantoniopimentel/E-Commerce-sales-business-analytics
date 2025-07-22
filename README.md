@@ -1,4 +1,4 @@
-# E-Commerce sales Business Analytics
+# E-Commerce sales - Business Analytics
 
 # content 
 - Data visualization
